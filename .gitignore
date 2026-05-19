@@ -66,6 +66,8 @@ submissions/
 s2*.*
 semantic_scholar_*.py
 extract_dois_hpc.ipynb
+src/compare_abstract_lengths.py
+src/failure_mode_cross_platform.py
 
 
 

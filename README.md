@@ -24,29 +24,22 @@ Code and analysis for a study on the integrity of abstracts in OpenAlex. We quan
 
 ```
 .
-├── .env.example              Template for the Semantic Scholar API key
 ├── .gitignore
 ├── README.md                 (this file)
-├── src/                      Python scripts: sampling, annotation, matching, analysis
-└── notebooks/                Figures and inter-annotator-agreement analysis
+├── src/                      Python scripts: sampling, annotation, analysis
+├── notebooks/                Figures and inter-annotator-agreement analysis
+└── output/                   Data, labels, model specs (see Data section)
 ```
 
-Data, figures, papers, and per-LLM model-spec logs live in `output/`, `docs/`, `submissions/`, and `references/`, which are **not tracked in this repository**. See [Data](#data) below.
+Submissions, references, and several Semantic-Scholar-related scripts and data files are not tracked in this repository.
 
 ## Setup
 
 ```bash
 # Python 3.10+ recommended
-pip install numpy pandas polars pyarrow scikit-learn requests plotly
+pip install numpy pandas polars pyarrow scikit-learn plotly
 # For the Tkinter GUIs (cleaning_gui.py, annotator_discussion.py): Tk usually ships with Python on macOS/Windows
 # On Linux: sudo apt-get install python3-tk
-```
-
-Copy `.env.example` to `.env` and fill in your Semantic Scholar API key (only required for `src/semantic_scholar_matching.py`):
-
-```bash
-cp .env.example .env
-# then edit .env
 ```
 
 ## Code
@@ -59,9 +52,6 @@ cp .env.example .env
 | `prepare_cleaning_tasks.py` | Builds the per-task annotation files (10k integrity + 10k language) for human labelling. Reads the cleaned background parquet (HPC path). |
 | `cleaning_gui.py` | Tkinter GUI for binary Yes/No labelling of abstract integrity and language. Used by the human annotators. |
 | `annotator_discussion.py` | Tkinter GUI for structured resolution of inter-annotator disagreements between A1 and A2 (also displays the Claude / Codex verdicts side-by-side). |
-| `semantic_scholar_matching.py` | Matches the 10k OpenAlex papers to Semantic Scholar via DOI and fetches S2 abstracts. Requires `SS_API_KEY` in `.env`. |
-| `compare_abstract_lengths.py` | Compares normalised abstract lengths between OpenAlex and Semantic Scholar for papers present in both sources. |
-| `failure_mode_cross_platform.py` | Analyses (a) whether specific OpenAlex failure modes correlate with S2 abstract absence, and (b) what failure modes appear in length-mismatched pairs. |
 
 ### `notebooks/`
 
@@ -69,15 +59,14 @@ cp .env.example .env
 |---|---|
 | `fig1_plotly_executed.ipynb` | Generates publication figures from the labelled data (executed; Plotly outputs embedded). |
 | `inter_annotator_agreement.ipynb` | Computes pairwise / Fleiss' kappa, prints the contingency tables, and walks through representative disagreements. |
-| `extract_dois_hpc.ipynb` | One-off HPC notebook that extracts the DOI mapping for the 10k sample from the OpenAlex metadata parquet. |
 
 ## Data
 
-The repository contains **only the code**. The data files referenced by the scripts and notebooks are expected under `output/` but are not committed (see [`.gitignore`](.gitignore)). To run the notebooks end-to-end you will need:
+All labelled data and model-provenance files are committed under `output/`.
 
 ### Annotator label files (1k subset)
 
-| Expected path | Contents |
+| Path | Contents |
 |---|---|
 | `output/integrity_A1.json` | Human annotator A1's binary Yes/No labels (first 1k) |
 | `output/integrity_A2.json` | Human annotator A2's binary Yes/No labels (first 1k) |
@@ -87,7 +76,7 @@ The repository contains **only the code**. The data files referenced by the scri
 
 ### Consolidated / scaled outputs
 
-| Expected path | Contents |
+| Path | Contents |
 |---|---|
 | `output/integrity_tasks.json` | The 10k task definitions (entry_id, title, abstract, paper_id) |
 | `output/integrity_final_1000.json` | Per-entry merge of human ground truth, all four annotator votes, `final_verdict`, and `failure_mode` |
@@ -95,14 +84,12 @@ The repository contains **only the code**. The data files referenced by the scri
 
 ### Run / model provenance
 
-| Expected path | Contents |
+| Path | Contents |
 |---|---|
 | `output/integrity_claude_model_spec.json` | Model, temperature, prompt template for the 1k Claude run |
 | `output/integrity_all_10000_model_spec.json` | Same, for the scaled 10k run |
 | `output/integrity_Codex_GPT54_first1000_specs.json` | Run metadata and decision policy for the Codex run |
 | `output/failure_mode_claude_model_spec.json` | Spec for the failure-mode classification run |
-
-The published dataset (label files + provenance) is intended for separate release alongside the paper. If you have a copy, place it under `output/` and the notebooks will run unchanged.
 
 ## Annotator labels
 
@@ -143,13 +130,12 @@ Throughout this codebase the two human annotators are referred to as **`A1`** an
 
 ## Reproducing the pipeline
 
-1. **Sample**: run `src/OpenAlex_random_sample_v2.py` against your local OpenAlex mirror to produce the 10k sample (or skip this if you already have `output/integrity_tasks.json`).
-2. **Human labelling**: launch `src/cleaning_gui.py` for the binary Yes/No task; outputs `output/integrity_<NAME>.json` per annotator.
-3. **LLM labelling**: produce `output/integrity_claude.json` and `output/integrity_Codex_GPT54_first1000.json` by running the LLM annotators (model + prompt documented in the corresponding `*_model_spec.json`).
-4. **Disagreement resolution**: launch `src/annotator_discussion.py` to resolve the cases where annotators disagree.
+1. **Sample**: run `src/OpenAlex_random_sample_v2.py` against a local OpenAlex mirror to produce the 10k sample (or use the supplied `output/integrity_tasks.json`).
+2. **Human labelling**: launch `src/cleaning_gui.py` for the binary Yes/No task → `output/integrity_<NAME>.json` per annotator.
+3. **LLM labelling** (out of scope of this repo): the LLM verdict files in `output/` (`integrity_claude.json`, `integrity_Codex_GPT54_first1000.json`, `integrity_all_10000.json`) were produced by the models documented in the corresponding `*_model_spec.json`.
+4. **Disagreement resolution**: launch `src/annotator_discussion.py` to walk through the cases where annotators disagree → `output/integrity_discussion.json`.
 5. **Inter-annotator agreement**: run `notebooks/inter_annotator_agreement.ipynb`.
-6. **Scale**: apply the calibrated prompt to the full 10k set with Claude Opus 4.6 → `output/integrity_all_10000.json`.
-7. **Figures**: run `notebooks/fig1_plotly_executed.ipynb`.
+6. **Figures**: run `notebooks/fig1_plotly_executed.ipynb`.
 
 ## License
 
