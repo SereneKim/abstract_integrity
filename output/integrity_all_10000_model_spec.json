@@ -1,0 +1,44 @@
+{
+  "model": "claude-opus-4-6",
+  "model_context": "1M tokens",
+  "classification_method": "in-context subagent (Claude Code Agent tool)",
+  "prompt_file": "prompt_for_abstract_integrity.md",
+  "labels": [
+    "Bibliographic / repository metadata",
+    "Insufficient abstract content",
+    "No abstract / placeholder",
+    "Truncated abstract",
+    "Valid",
+    "Web-scrape artefacts",
+    "Wrong document section",
+    "Wrong scholarly genre"
+  ],
+  "batch_structure": {
+    "total_entries": 10000,
+    "n_batches": 50,
+    "entries_per_batch": 200
+  },
+  "distribution": {
+    "Valid": 8795,
+    "Insufficient abstract content": 353,
+    "Bibliographic / repository metadata": 185,
+    "Wrong document section": 167,
+    "Web-scrape artefacts": 150,
+    "Truncated abstract": 139,
+    "No abstract / placeholder": 109,
+    "Wrong scholarly genre": 102
+  },
+  "alignment_first_1000": {
+    "agreement": 960,
+    "agreement_pct": 96.0,
+    "disagreements": {
+      "GT=Valid, Claude=Insufficient abstract content": 13,
+      "GT=Rejected, Claude=Valid": 10,
+      "GT=Valid, Claude=Truncated abstract": 6,
+      "GT=Valid, Claude=Wrong scholarly genre": 5,
+      "GT=Valid, Claude=Wrong document section": 4,
+      "GT=Valid, Claude=Web-scrape artefacts": 2
+    }
+  },
+  "timestamp": "2026-03-27T22:17:48.391757+00:00"
+}

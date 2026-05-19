@@ -1,0 +1,32 @@
+{
+  "model": "claude-opus-4-6",
+  "model_context": "1M tokens",
+  "classification_method": "in-context subagent (Claude Code Agent tool)",
+  "temperature": "not controllable (subagent default)",
+  "classification_prompt": "Read the batch file. For each entry, you see a title and an abstract.\nClassify each entry into exactly ONE of these 7 failure mode categories:\n\n1. Web-scrape artefacts — Text captured from a publisher or platform webpage rather than from the abstract itself, such as navigation elements, paywall prompts, article-listing boilerplate, search-interface text, leaked HTML or XML, or encoding residue.\n2. No abstract / placeholder — A record that does not contain substantive abstract text, but instead provides a stub, an explicit statement that no abstract is available, a language placeholder, a registration identifier, or another minimal stand-in for content.\n3. Bibliographic / repository metadata — Structured record information rather than abstract prose, including repository metadata, citation strings, DOI-only entries, author and affiliation lists, conference or book headers, ISBN-bearing references, or tables of contents.\n4. Wrong document section — Coherent scholarly prose extracted from the wrong part of the source document, such as an introduction, discussion, body passage, essay section, or foreword, rather than the abstract field intended to summarize the work.\n5. Truncated abstract — A genuine or likely genuine abstract that has been cut off at the beginning or end, often mid-sentence or mid-word, so that the text is recognizably abstract-like but incomplete and not fully meaningful as a standalone summary.\n6. Insufficient abstract content — Text that is too brief, narrow, fragmentary, or uninformative to function as a meaningful standalone abstract, including conclusion-only snippets, one-line findings, title repetitions, teaser statements, bare questions, or minimal topic announcements.\n7. Wrong scholarly genre — Coherent writing that belongs to a different scholarly or publication genre than a research abstract, such as editorials, errata, letters, conference reports, news-style pieces, or similar non-abstract formats.\n\nWrite results as JSON mapping entry_id (string) to category name (string).",
+  "categories": [
+    "Bibliographic / repository metadata",
+    "Web-scrape artefacts",
+    "Wrong document section",
+    "Truncated abstract",
+    "Wrong scholarly genre",
+    "Insufficient abstract content",
+    "No abstract / placeholder"
+  ],
+  "category_source": "output/failure_mode_update_hierarchy.md",
+  "batch_structure": {
+    "total_entries_classified": 128,
+    "n_batches": 2,
+    "entries_per_batch": 64
+  },
+  "distribution": {
+    "Insufficient abstract content": 43,
+    "Wrong document section": 17,
+    "Bibliographic / repository metadata": 16,
+    "Truncated abstract": 15,
+    "Web-scrape artefacts": 14,
+    "No abstract / placeholder": 13,
+    "Wrong scholarly genre": 10
+  },
+  "timestamp": "2026-03-27T18:49:38.643140+00:00"
+}
