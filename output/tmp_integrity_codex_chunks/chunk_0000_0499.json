@@ -1,0 +1,2523 @@
+{
+  "range": {
+    "start": 0,
+    "end": 499,
+    "n_entries": 500
+  },
+  "model": "GPT-5.4",
+  "reasoning_effort": "high",
+  "prompt_file": "HDBSCAN_validity/human_cleaning_background_data/prompt_for_abstract_integrity.md",
+  "task_file": "HDBSCAN_validity/human_cleaning_background_data/output/integrity_tasks.json",
+  "labels": [
+    "Valid",
+    "Web-scrape artefacts",
+    "No abstract / placeholder",
+    "Bibliographic / repository metadata",
+    "Wrong document section",
+    "Truncated abstract",
+    "Insufficient abstract content",
+    "Wrong scholarly genre"
+  ],
+  "entries": [
+    {
+      "entry_id": 0,
+      "paper_id": "https://openalex.org/W2171347833",
+      "codex_label": "Web-scrape artefacts"
+    },
+    {
+      "entry_id": 1,
+      "paper_id": "https://openalex.org/W2013866881",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 2,
+      "paper_id": "https://openalex.org/W2742071918",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 3,
+      "paper_id": "https://openalex.org/W2915934899",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 4,
+      "paper_id": "https://openalex.org/W2316026750",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 5,
+      "paper_id": "https://openalex.org/W3175438020",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 6,
+      "paper_id": "https://openalex.org/W2076775257",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 7,
+      "paper_id": "https://openalex.org/W2329485124",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 8,
+      "paper_id": "https://openalex.org/W899466010",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 9,
+      "paper_id": "https://openalex.org/W2603194473",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 10,
+      "paper_id": "https://openalex.org/W4403753768",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 11,
+      "paper_id": "https://openalex.org/W4401862775",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 12,
+      "paper_id": "https://openalex.org/W2793168168",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 13,
+      "paper_id": "https://openalex.org/W2979834153",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 14,
+      "paper_id": "https://openalex.org/W2394922553",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 15,
+      "paper_id": "https://openalex.org/W2068508310",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 16,
+      "paper_id": "https://openalex.org/W2001450875",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 17,
+      "paper_id": "https://openalex.org/W2019358602",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 18,
+      "paper_id": "https://openalex.org/W2325887297",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 19,
+      "paper_id": "https://openalex.org/W4401048106",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 20,
+      "paper_id": "https://openalex.org/W1490187857",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 21,
+      "paper_id": "https://openalex.org/W2425943490",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 22,
+      "paper_id": "https://openalex.org/W2031956893",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 23,
+      "paper_id": "https://openalex.org/W2351089173",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 24,
+      "paper_id": "https://openalex.org/W2323361082",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 25,
+      "paper_id": "https://openalex.org/W1459779121",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 26,
+      "paper_id": "https://openalex.org/W2978741911",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 27,
+      "paper_id": "https://openalex.org/W2334029858",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 28,
+      "paper_id": "https://openalex.org/W2062118668",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 29,
+      "paper_id": "https://openalex.org/W2084875068",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 30,
+      "paper_id": "https://openalex.org/W2320068467",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 31,
+      "paper_id": "https://openalex.org/W3174891819",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 32,
+      "paper_id": "https://openalex.org/W2136364651",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 33,
+      "paper_id": "https://openalex.org/W4396510530",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 34,
+      "paper_id": "https://openalex.org/W1974368790",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 35,
+      "paper_id": "https://openalex.org/W2550059140",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 36,
+      "paper_id": "https://openalex.org/W2030378875",
+      "codex_label": "Web-scrape artefacts"
+    },
+    {
+      "entry_id": 37,
+      "paper_id": "https://openalex.org/W1546777811",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 38,
+      "paper_id": "https://openalex.org/W2356362775",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 39,
+      "paper_id": "https://openalex.org/W4353055391",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 40,
+      "paper_id": "https://openalex.org/W1971498735",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 41,
+      "paper_id": "https://openalex.org/W1509045375",
+      "codex_label": "Wrong document section"
+    },
+    {
+      "entry_id": 42,
+      "paper_id": "https://openalex.org/W2791313856",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 43,
+      "paper_id": "https://openalex.org/W2565703423",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 44,
+      "paper_id": "https://openalex.org/W3126006076",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 45,
+      "paper_id": "https://openalex.org/W2524697856",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 46,
+      "paper_id": "https://openalex.org/W3201548439",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 47,
+      "paper_id": "https://openalex.org/W2908207208",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 48,
+      "paper_id": "https://openalex.org/W4308735993",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 49,
+      "paper_id": "https://openalex.org/W3097170523",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 50,
+      "paper_id": "https://openalex.org/W2286828229",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 51,
+      "paper_id": "https://openalex.org/W1980491499",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 52,
+      "paper_id": "https://openalex.org/W2947991145",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 53,
+      "paper_id": "https://openalex.org/W3175113239",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 54,
+      "paper_id": "https://openalex.org/W2728420507",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 55,
+      "paper_id": "https://openalex.org/W2292669995",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 56,
+      "paper_id": "https://openalex.org/W4285223237",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 57,
+      "paper_id": "https://openalex.org/W4401890587",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 58,
+      "paper_id": "https://openalex.org/W2170185915",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 59,
+      "paper_id": "https://openalex.org/W4288972361",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 60,
+      "paper_id": "https://openalex.org/W2101999971",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 61,
+      "paper_id": "https://openalex.org/W2401872800",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 62,
+      "paper_id": "https://openalex.org/W2004126654",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 63,
+      "paper_id": "https://openalex.org/W1588652812",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 64,
+      "paper_id": "https://openalex.org/W2014657724",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 65,
+      "paper_id": "https://openalex.org/W2391367943",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 66,
+      "paper_id": "https://openalex.org/W1492768223",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 67,
+      "paper_id": "https://openalex.org/W2789909988",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 68,
+      "paper_id": "https://openalex.org/W2338401152",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 69,
+      "paper_id": "https://openalex.org/W3192413641",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 70,
+      "paper_id": "https://openalex.org/W3006340846",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 71,
+      "paper_id": "https://openalex.org/W2171487630",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 72,
+      "paper_id": "https://openalex.org/W2080044089",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 73,
+      "paper_id": "https://openalex.org/W4237624294",
+      "codex_label": "Web-scrape artefacts"
+    },
+    {
+      "entry_id": 74,
+      "paper_id": "https://openalex.org/W570555593",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 75,
+      "paper_id": "https://openalex.org/W2467617132",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 76,
+      "paper_id": "https://openalex.org/W3181596338",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 77,
+      "paper_id": "https://openalex.org/W2100191225",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 78,
+      "paper_id": "https://openalex.org/W2143681385",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 79,
+      "paper_id": "https://openalex.org/W2060621930",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 80,
+      "paper_id": "https://openalex.org/W4286668860",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 81,
+      "paper_id": "https://openalex.org/W2164372289",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 82,
+      "paper_id": "https://openalex.org/W4399477298",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 83,
+      "paper_id": "https://openalex.org/W608600187",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 84,
+      "paper_id": "https://openalex.org/W2035195478",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 85,
+      "paper_id": "https://openalex.org/W3214707091",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 86,
+      "paper_id": "https://openalex.org/W2026893793",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 87,
+      "paper_id": "https://openalex.org/W3199093905",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 88,
+      "paper_id": "https://openalex.org/W2470751319",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 89,
+      "paper_id": "https://openalex.org/W2012086017",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 90,
+      "paper_id": "https://openalex.org/W2058404941",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 91,
+      "paper_id": "https://openalex.org/W4404963740",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 92,
+      "paper_id": "https://openalex.org/W2081616117",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 93,
+      "paper_id": "https://openalex.org/W2107080287",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 94,
+      "paper_id": "https://openalex.org/W4310954030",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 95,
+      "paper_id": "https://openalex.org/W1980792478",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 96,
+      "paper_id": "https://openalex.org/W2117900501",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 97,
+      "paper_id": "https://openalex.org/W1961497476",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 98,
+      "paper_id": "https://openalex.org/W2047143679",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 99,
+      "paper_id": "https://openalex.org/W2895651895",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 100,
+      "paper_id": "https://openalex.org/W2795534239",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 101,
+      "paper_id": "https://openalex.org/W2089279117",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 102,
+      "paper_id": "https://openalex.org/W2092811160",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 103,
+      "paper_id": "https://openalex.org/W4312699875",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 104,
+      "paper_id": "https://openalex.org/W2070231479",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 105,
+      "paper_id": "https://openalex.org/W2365300141",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 106,
+      "paper_id": "https://openalex.org/W1606386682",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 107,
+      "paper_id": "https://openalex.org/W73255534",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 108,
+      "paper_id": "https://openalex.org/W4220918363",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 109,
+      "paper_id": "https://openalex.org/W2156225673",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 110,
+      "paper_id": "https://openalex.org/W2891373876",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 111,
+      "paper_id": "https://openalex.org/W2050031510",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 112,
+      "paper_id": "https://openalex.org/W2885104985",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 113,
+      "paper_id": "https://openalex.org/W2021349659",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 114,
+      "paper_id": "https://openalex.org/W2897795388",
+      "codex_label": "Bibliographic / repository metadata"
+    },
+    {
+      "entry_id": 115,
+      "paper_id": "https://openalex.org/W2058123619",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 116,
+      "paper_id": "https://openalex.org/W4295914617",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 117,
+      "paper_id": "https://openalex.org/W3046377525",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 118,
+      "paper_id": "https://openalex.org/W2114803937",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 119,
+      "paper_id": "https://openalex.org/W1504541031",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 120,
+      "paper_id": "https://openalex.org/W1974675549",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 121,
+      "paper_id": "https://openalex.org/W2011203802",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 122,
+      "paper_id": "https://openalex.org/W2033123198",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 123,
+      "paper_id": "https://openalex.org/W3216349085",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 124,
+      "paper_id": "https://openalex.org/W2949282956",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 125,
+      "paper_id": "https://openalex.org/W1160605655",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 126,
+      "paper_id": "https://openalex.org/W2035999026",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 127,
+      "paper_id": "https://openalex.org/W2803319607",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 128,
+      "paper_id": "https://openalex.org/W2106973483",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 129,
+      "paper_id": "https://openalex.org/W2787786614",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 130,
+      "paper_id": "https://openalex.org/W1967598304",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 131,
+      "paper_id": "https://openalex.org/W4252661876",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 132,
+      "paper_id": "https://openalex.org/W2885335151",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 133,
+      "paper_id": "https://openalex.org/W2368673051",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 134,
+      "paper_id": "https://openalex.org/W2002367368",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 135,
+      "paper_id": "https://openalex.org/W2087896514",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 136,
+      "paper_id": "https://openalex.org/W2536471292",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 137,
+      "paper_id": "https://openalex.org/W2205684842",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 138,
+      "paper_id": "https://openalex.org/W1989493875",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 139,
+      "paper_id": "https://openalex.org/W3215419997",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 140,
+      "paper_id": "https://openalex.org/W3126806859",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 141,
+      "paper_id": "https://openalex.org/W213623995",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 142,
+      "paper_id": "https://openalex.org/W1796823929",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 143,
+      "paper_id": "https://openalex.org/W2050543992",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 144,
+      "paper_id": "https://openalex.org/W3204167724",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 145,
+      "paper_id": "https://openalex.org/W2625389800",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 146,
+      "paper_id": "https://openalex.org/W2767334509",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 147,
+      "paper_id": "https://openalex.org/W3023888219",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 148,
+      "paper_id": "https://openalex.org/W2897676853",
+      "codex_label": "Wrong document section"
+    },
+    {
+      "entry_id": 149,
+      "paper_id": "https://openalex.org/W4388273567",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 150,
+      "paper_id": "https://openalex.org/W2050358181",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 151,
+      "paper_id": "https://openalex.org/W2756697892",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 152,
+      "paper_id": "https://openalex.org/W2096258063",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 153,
+      "paper_id": "https://openalex.org/W2049828355",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 154,
+      "paper_id": "https://openalex.org/W2108130372",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 155,
+      "paper_id": "https://openalex.org/W2774762888",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 156,
+      "paper_id": "https://openalex.org/W4412493379",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 157,
+      "paper_id": "https://openalex.org/W3112446630",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 158,
+      "paper_id": "https://openalex.org/W1985168361",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 159,
+      "paper_id": "https://openalex.org/W4312097856",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 160,
+      "paper_id": "https://openalex.org/W2071742653",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 161,
+      "paper_id": "https://openalex.org/W2970277047",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 162,
+      "paper_id": "https://openalex.org/W2000625944",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 163,
+      "paper_id": "https://openalex.org/W3093534034",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 164,
+      "paper_id": "https://openalex.org/W2295585505",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 165,
+      "paper_id": "https://openalex.org/W1978725557",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 166,
+      "paper_id": "https://openalex.org/W2473403234",
+      "codex_label": "No abstract / placeholder"
+    },
+    {
+      "entry_id": 167,
+      "paper_id": "https://openalex.org/W2555440268",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 168,
+      "paper_id": "https://openalex.org/W2519009585",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 169,
+      "paper_id": "https://openalex.org/W1972631149",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 170,
+      "paper_id": "https://openalex.org/W2029510086",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 171,
+      "paper_id": "https://openalex.org/W2181731752",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 172,
+      "paper_id": "https://openalex.org/W2091458895",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 173,
+      "paper_id": "https://openalex.org/W2353369436",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 174,
+      "paper_id": "https://openalex.org/W2353731818",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 175,
+      "paper_id": "https://openalex.org/W4240061343",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 176,
+      "paper_id": "https://openalex.org/W3091852380",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 177,
+      "paper_id": "https://openalex.org/W7045760459",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 178,
+      "paper_id": "https://openalex.org/W2994251745",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 179,
+      "paper_id": "https://openalex.org/W2562753939",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 180,
+      "paper_id": "https://openalex.org/W3186133257",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 181,
+      "paper_id": "https://openalex.org/W2970639191",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 182,
+      "paper_id": "https://openalex.org/W3005325413",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 183,
+      "paper_id": "https://openalex.org/W2100536962",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 184,
+      "paper_id": "https://openalex.org/W2809653371",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 185,
+      "paper_id": "https://openalex.org/W2091089372",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 186,
+      "paper_id": "https://openalex.org/W2912393079",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 187,
+      "paper_id": "https://openalex.org/W2082812462",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 188,
+      "paper_id": "https://openalex.org/W2528884007",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 189,
+      "paper_id": "https://openalex.org/W2913101416",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 190,
+      "paper_id": "https://openalex.org/W2980006740",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 191,
+      "paper_id": "https://openalex.org/W2078771170",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 192,
+      "paper_id": "https://openalex.org/W2154080178",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 193,
+      "paper_id": "https://openalex.org/W2917301053",
+      "codex_label": "No abstract / placeholder"
+    },
+    {
+      "entry_id": 194,
+      "paper_id": "https://openalex.org/W2516946209",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 195,
+      "paper_id": "https://openalex.org/W2069806761",
+      "codex_label": "Web-scrape artefacts"
+    },
+    {
+      "entry_id": 196,
+      "paper_id": "https://openalex.org/W4296874946",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 197,
+      "paper_id": "https://openalex.org/W2066559889",
+      "codex_label": "Wrong document section"
+    },
+    {
+      "entry_id": 198,
+      "paper_id": "https://openalex.org/W1970536528",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 199,
+      "paper_id": "https://openalex.org/W2052539937",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 200,
+      "paper_id": "https://openalex.org/W2130452454",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 201,
+      "paper_id": "https://openalex.org/W2014027580",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 202,
+      "paper_id": "https://openalex.org/W3208737884",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 203,
+      "paper_id": "https://openalex.org/W2583977619",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 204,
+      "paper_id": "https://openalex.org/W2051845225",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 205,
+      "paper_id": "https://openalex.org/W3158191913",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 206,
+      "paper_id": "https://openalex.org/W3177801163",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 207,
+      "paper_id": "https://openalex.org/W2908228793",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 208,
+      "paper_id": "https://openalex.org/W3148383665",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 209,
+      "paper_id": "https://openalex.org/W3022858681",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 210,
+      "paper_id": "https://openalex.org/W1621220271",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 211,
+      "paper_id": "https://openalex.org/W1984523268",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 212,
+      "paper_id": "https://openalex.org/W2113427248",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 213,
+      "paper_id": "https://openalex.org/W2993490189",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 214,
+      "paper_id": "https://openalex.org/W2088673490",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 215,
+      "paper_id": "https://openalex.org/W4366463267",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 216,
+      "paper_id": "https://openalex.org/W3033332516",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 217,
+      "paper_id": "https://openalex.org/W3092354405",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 218,
+      "paper_id": "https://openalex.org/W1990642123",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 219,
+      "paper_id": "https://openalex.org/W2782431185",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 220,
+      "paper_id": "https://openalex.org/W1993511448",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 221,
+      "paper_id": "https://openalex.org/W4313354152",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 222,
+      "paper_id": "https://openalex.org/W2174364750",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 223,
+      "paper_id": "https://openalex.org/W2101170673",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 224,
+      "paper_id": "https://openalex.org/W1975905332",
+      "codex_label": "Web-scrape artefacts"
+    },
+    {
+      "entry_id": 225,
+      "paper_id": "https://openalex.org/W2935878225",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 226,
+      "paper_id": "https://openalex.org/W2094093309",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 227,
+      "paper_id": "https://openalex.org/W2404195710",
+      "codex_label": "Wrong document section"
+    },
+    {
+      "entry_id": 228,
+      "paper_id": "https://openalex.org/W2132472890",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 229,
+      "paper_id": "https://openalex.org/W2351659566",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 230,
+      "paper_id": "https://openalex.org/W2063846991",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 231,
+      "paper_id": "https://openalex.org/W2093987286",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 232,
+      "paper_id": "https://openalex.org/W2582315395",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 233,
+      "paper_id": "https://openalex.org/W2908878407",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 234,
+      "paper_id": "https://openalex.org/W2123670418",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 235,
+      "paper_id": "https://openalex.org/W2157952841",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 236,
+      "paper_id": "https://openalex.org/W2018998367",
+      "codex_label": "Web-scrape artefacts"
+    },
+    {
+      "entry_id": 237,
+      "paper_id": "https://openalex.org/W2149662540",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 238,
+      "paper_id": "https://openalex.org/W2391165915",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 239,
+      "paper_id": "https://openalex.org/W4253299505",
+      "codex_label": "Web-scrape artefacts"
+    },
+    {
+      "entry_id": 240,
+      "paper_id": "https://openalex.org/W4229916047",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 241,
+      "paper_id": "https://openalex.org/W2181367659",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 242,
+      "paper_id": "https://openalex.org/W2029287311",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 243,
+      "paper_id": "https://openalex.org/W2414168629",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 244,
+      "paper_id": "https://openalex.org/W2950402544",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 245,
+      "paper_id": "https://openalex.org/W2936336033",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 246,
+      "paper_id": "https://openalex.org/W2159954049",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 247,
+      "paper_id": "https://openalex.org/W2416133443",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 248,
+      "paper_id": "https://openalex.org/W1965893732",
+      "codex_label": "Web-scrape artefacts"
+    },
+    {
+      "entry_id": 249,
+      "paper_id": "https://openalex.org/W2237731699",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 250,
+      "paper_id": "https://openalex.org/W2952602900",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 251,
+      "paper_id": "https://openalex.org/W4388937696",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 252,
+      "paper_id": "https://openalex.org/W2014010145",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 253,
+      "paper_id": "https://openalex.org/W1692796338",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 254,
+      "paper_id": "https://openalex.org/W4285218789",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 255,
+      "paper_id": "https://openalex.org/W4241662211",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 256,
+      "paper_id": "https://openalex.org/W4231718524",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 257,
+      "paper_id": "https://openalex.org/W4200254624",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 258,
+      "paper_id": "https://openalex.org/W809908067",
+      "codex_label": "Bibliographic / repository metadata"
+    },
+    {
+      "entry_id": 259,
+      "paper_id": "https://openalex.org/W2885145541",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 260,
+      "paper_id": "https://openalex.org/W4286485285",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 261,
+      "paper_id": "https://openalex.org/W4320083225",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 262,
+      "paper_id": "https://openalex.org/W2938607640",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 263,
+      "paper_id": "https://openalex.org/W4377972219",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 264,
+      "paper_id": "https://openalex.org/W2281533936",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 265,
+      "paper_id": "https://openalex.org/W3116807388",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 266,
+      "paper_id": "https://openalex.org/W1990150566",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 267,
+      "paper_id": "https://openalex.org/W1630537031",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 268,
+      "paper_id": "https://openalex.org/W2526763622",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 269,
+      "paper_id": "https://openalex.org/W1966872297",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 270,
+      "paper_id": "https://openalex.org/W4389627446",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 271,
+      "paper_id": "https://openalex.org/W2914796154",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 272,
+      "paper_id": "https://openalex.org/W2168202045",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 273,
+      "paper_id": "https://openalex.org/W3023113355",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 274,
+      "paper_id": "https://openalex.org/W2402437913",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 275,
+      "paper_id": "https://openalex.org/W4232513542",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 276,
+      "paper_id": "https://openalex.org/W2140530360",
+      "codex_label": "Wrong document section"
+    },
+    {
+      "entry_id": 277,
+      "paper_id": "https://openalex.org/W2134316053",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 278,
+      "paper_id": "https://openalex.org/W2113686079",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 279,
+      "paper_id": "https://openalex.org/W2111983168",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 280,
+      "paper_id": "https://openalex.org/W4206074876",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 281,
+      "paper_id": "https://openalex.org/W1989051182",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 282,
+      "paper_id": "https://openalex.org/W4405323738",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 283,
+      "paper_id": "https://openalex.org/W3182602285",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 284,
+      "paper_id": "https://openalex.org/W4409111608",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 285,
+      "paper_id": "https://openalex.org/W2095200489",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 286,
+      "paper_id": "https://openalex.org/W2618213140",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 287,
+      "paper_id": "https://openalex.org/W978140055",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 288,
+      "paper_id": "https://openalex.org/W2001087885",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 289,
+      "paper_id": "https://openalex.org/W2128770344",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 290,
+      "paper_id": "https://openalex.org/W2160041463",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 291,
+      "paper_id": "https://openalex.org/W2400850190",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 292,
+      "paper_id": "https://openalex.org/W991509731",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 293,
+      "paper_id": "https://openalex.org/W2076273669",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 294,
+      "paper_id": "https://openalex.org/W2793519403",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 295,
+      "paper_id": "https://openalex.org/W2244356475",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 296,
+      "paper_id": "https://openalex.org/W2107296781",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 297,
+      "paper_id": "https://openalex.org/W4313171252",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 298,
+      "paper_id": "https://openalex.org/W2098347847",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 299,
+      "paper_id": "https://openalex.org/W2083768554",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 300,
+      "paper_id": "https://openalex.org/W4410833365",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 301,
+      "paper_id": "https://openalex.org/W1989579462",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 302,
+      "paper_id": "https://openalex.org/W2141561503",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 303,
+      "paper_id": "https://openalex.org/W4403494313",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 304,
+      "paper_id": "https://openalex.org/W2032163832",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 305,
+      "paper_id": "https://openalex.org/W2917375599",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 306,
+      "paper_id": "https://openalex.org/W4214854203",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 307,
+      "paper_id": "https://openalex.org/W2019876906",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 308,
+      "paper_id": "https://openalex.org/W2064082217",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 309,
+      "paper_id": "https://openalex.org/W2068507120",
+      "codex_label": "Wrong document section"
+    },
+    {
+      "entry_id": 310,
+      "paper_id": "https://openalex.org/W4402379094",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 311,
+      "paper_id": "https://openalex.org/W3036912230",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 312,
+      "paper_id": "https://openalex.org/W4403242288",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 313,
+      "paper_id": "https://openalex.org/W1903717151",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 314,
+      "paper_id": "https://openalex.org/W4391303494",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 315,
+      "paper_id": "https://openalex.org/W2535798284",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 316,
+      "paper_id": "https://openalex.org/W2070239699",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 317,
+      "paper_id": "https://openalex.org/W2577072812",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 318,
+      "paper_id": "https://openalex.org/W2003085044",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 319,
+      "paper_id": "https://openalex.org/W131645628",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 320,
+      "paper_id": "https://openalex.org/W2379969136",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 321,
+      "paper_id": "https://openalex.org/W2594438001",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 322,
+      "paper_id": "https://openalex.org/W1560567595",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 323,
+      "paper_id": "https://openalex.org/W2061017524",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 324,
+      "paper_id": "https://openalex.org/W1971979886",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 325,
+      "paper_id": "https://openalex.org/W2078845296",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 326,
+      "paper_id": "https://openalex.org/W2089561096",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 327,
+      "paper_id": "https://openalex.org/W3208465999",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 328,
+      "paper_id": "https://openalex.org/W1486414742",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 329,
+      "paper_id": "https://openalex.org/W4384133508",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 330,
+      "paper_id": "https://openalex.org/W2028802574",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 331,
+      "paper_id": "https://openalex.org/W4205225185",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 332,
+      "paper_id": "https://openalex.org/W2090717765",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 333,
+      "paper_id": "https://openalex.org/W2060468038",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 334,
+      "paper_id": "https://openalex.org/W1995917012",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 335,
+      "paper_id": "https://openalex.org/W2971073880",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 336,
+      "paper_id": "https://openalex.org/W1417957957",
+      "codex_label": "Wrong document section"
+    },
+    {
+      "entry_id": 337,
+      "paper_id": "https://openalex.org/W4307409115",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 338,
+      "paper_id": "https://openalex.org/W2011643017",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 339,
+      "paper_id": "https://openalex.org/W2064996709",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 340,
+      "paper_id": "https://openalex.org/W1557665610",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 341,
+      "paper_id": "https://openalex.org/W2148915027",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 342,
+      "paper_id": "https://openalex.org/W2959206657",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 343,
+      "paper_id": "https://openalex.org/W4380991471",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 344,
+      "paper_id": "https://openalex.org/W4407563450",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 345,
+      "paper_id": "https://openalex.org/W2063859240",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 346,
+      "paper_id": "https://openalex.org/W2050332499",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 347,
+      "paper_id": "https://openalex.org/W4255191645",
+      "codex_label": "Bibliographic / repository metadata"
+    },
+    {
+      "entry_id": 348,
+      "paper_id": "https://openalex.org/W2564010705",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 349,
+      "paper_id": "https://openalex.org/W4224217813",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 350,
+      "paper_id": "https://openalex.org/W1975367825",
+      "codex_label": "Wrong document section"
+    },
+    {
+      "entry_id": 351,
+      "paper_id": "https://openalex.org/W1820236015",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 352,
+      "paper_id": "https://openalex.org/W4391679981",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 353,
+      "paper_id": "https://openalex.org/W2578448634",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 354,
+      "paper_id": "https://openalex.org/W2758878283",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 355,
+      "paper_id": "https://openalex.org/W4291008891",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 356,
+      "paper_id": "https://openalex.org/W2068857175",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 357,
+      "paper_id": "https://openalex.org/W2070585695",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 358,
+      "paper_id": "https://openalex.org/W2159777969",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 359,
+      "paper_id": "https://openalex.org/W2898181357",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 360,
+      "paper_id": "https://openalex.org/W2159560033",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 361,
+      "paper_id": "https://openalex.org/W2348920469",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 362,
+      "paper_id": "https://openalex.org/W2064251451",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 363,
+      "paper_id": "https://openalex.org/W4224938567",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 364,
+      "paper_id": "https://openalex.org/W2396552128",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 365,
+      "paper_id": "https://openalex.org/W3184268401",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 366,
+      "paper_id": "https://openalex.org/W2468170412",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 367,
+      "paper_id": "https://openalex.org/W2001936671",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 368,
+      "paper_id": "https://openalex.org/W2156541239",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 369,
+      "paper_id": "https://openalex.org/W2314607323",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 370,
+      "paper_id": "https://openalex.org/W4399412652",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 371,
+      "paper_id": "https://openalex.org/W2093845460",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 372,
+      "paper_id": "https://openalex.org/W2005025265",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 373,
+      "paper_id": "https://openalex.org/W2016339031",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 374,
+      "paper_id": "https://openalex.org/W1902670843",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 375,
+      "paper_id": "https://openalex.org/W2789603457",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 376,
+      "paper_id": "https://openalex.org/W3007249673",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 377,
+      "paper_id": "https://openalex.org/W4402278678",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 378,
+      "paper_id": "https://openalex.org/W2940843937",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 379,
+      "paper_id": "https://openalex.org/W2963166896",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 380,
+      "paper_id": "https://openalex.org/W2076513413",
+      "codex_label": "Wrong document section"
+    },
+    {
+      "entry_id": 381,
+      "paper_id": "https://openalex.org/W2321679166",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 382,
+      "paper_id": "https://openalex.org/W3126042854",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 383,
+      "paper_id": "https://openalex.org/W2978374674",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 384,
+      "paper_id": "https://openalex.org/W3153989856",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 385,
+      "paper_id": "https://openalex.org/W3157434688",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 386,
+      "paper_id": "https://openalex.org/W2466392678",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 387,
+      "paper_id": "https://openalex.org/W2254316573",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 388,
+      "paper_id": "https://openalex.org/W2334803043",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 389,
+      "paper_id": "https://openalex.org/W4243246727",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 390,
+      "paper_id": "https://openalex.org/W4401953744",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 391,
+      "paper_id": "https://openalex.org/W1627783114",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 392,
+      "paper_id": "https://openalex.org/W2066164255",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 393,
+      "paper_id": "https://openalex.org/W2566248419",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 394,
+      "paper_id": "https://openalex.org/W2908174161",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 395,
+      "paper_id": "https://openalex.org/W3113833338",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 396,
+      "paper_id": "https://openalex.org/W2061428226",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 397,
+      "paper_id": "https://openalex.org/W611207818",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 398,
+      "paper_id": "https://openalex.org/W7020378768",
+      "codex_label": "No abstract / placeholder"
+    },
+    {
+      "entry_id": 399,
+      "paper_id": "https://openalex.org/W2318851179",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 400,
+      "paper_id": "https://openalex.org/W2147890406",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 401,
+      "paper_id": "https://openalex.org/W2136329206",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 402,
+      "paper_id": "https://openalex.org/W2113566557",
+      "codex_label": "Bibliographic / repository metadata"
+    },
+    {
+      "entry_id": 403,
+      "paper_id": "https://openalex.org/W1943196152",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 404,
+      "paper_id": "https://openalex.org/W2028033407",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 405,
+      "paper_id": "https://openalex.org/W2004001743",
+      "codex_label": "Bibliographic / repository metadata"
+    },
+    {
+      "entry_id": 406,
+      "paper_id": "https://openalex.org/W2154807788",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 407,
+      "paper_id": "https://openalex.org/W2029066112",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 408,
+      "paper_id": "https://openalex.org/W2501626221",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 409,
+      "paper_id": "https://openalex.org/W2044971671",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 410,
+      "paper_id": "https://openalex.org/W2810843202",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 411,
+      "paper_id": "https://openalex.org/W1971902633",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 412,
+      "paper_id": "https://openalex.org/W1992310059",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 413,
+      "paper_id": "https://openalex.org/W2903688512",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 414,
+      "paper_id": "https://openalex.org/W2028070486",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 415,
+      "paper_id": "https://openalex.org/W2044542088",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 416,
+      "paper_id": "https://openalex.org/W4390943443",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 417,
+      "paper_id": "https://openalex.org/W3084378362",
+      "codex_label": "Bibliographic / repository metadata"
+    },
+    {
+      "entry_id": 418,
+      "paper_id": "https://openalex.org/W1981009593",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 419,
+      "paper_id": "https://openalex.org/W2783019702",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 420,
+      "paper_id": "https://openalex.org/W2997190702",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 421,
+      "paper_id": "https://openalex.org/W1999285551",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 422,
+      "paper_id": "https://openalex.org/W1986449818",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 423,
+      "paper_id": "https://openalex.org/W4390002285",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 424,
+      "paper_id": "https://openalex.org/W1989372072",
+      "codex_label": "Web-scrape artefacts"
+    },
+    {
+      "entry_id": 425,
+      "paper_id": "https://openalex.org/W2408844688",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 426,
+      "paper_id": "https://openalex.org/W2428217996",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 427,
+      "paper_id": "https://openalex.org/W3003429224",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 428,
+      "paper_id": "https://openalex.org/W2999405887",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 429,
+      "paper_id": "https://openalex.org/W4237846245",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 430,
+      "paper_id": "https://openalex.org/W1542318124",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 431,
+      "paper_id": "https://openalex.org/W2061415491",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 432,
+      "paper_id": "https://openalex.org/W4409347087",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 433,
+      "paper_id": "https://openalex.org/W2046811860",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 434,
+      "paper_id": "https://openalex.org/W2466243815",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 435,
+      "paper_id": "https://openalex.org/W2126374640",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 436,
+      "paper_id": "https://openalex.org/W2136703956",
+      "codex_label": "No abstract / placeholder"
+    },
+    {
+      "entry_id": 437,
+      "paper_id": "https://openalex.org/W2530987698",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 438,
+      "paper_id": "https://openalex.org/W2595885526",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 439,
+      "paper_id": "https://openalex.org/W4200030757",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 440,
+      "paper_id": "https://openalex.org/W2122931372",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 441,
+      "paper_id": "https://openalex.org/W2891803919",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 442,
+      "paper_id": "https://openalex.org/W3025604908",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 443,
+      "paper_id": "https://openalex.org/W2045082812",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 444,
+      "paper_id": "https://openalex.org/W3121972076",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 445,
+      "paper_id": "https://openalex.org/W4308834707",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 446,
+      "paper_id": "https://openalex.org/W2725693443",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 447,
+      "paper_id": "https://openalex.org/W2783348747",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 448,
+      "paper_id": "https://openalex.org/W1983429602",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 449,
+      "paper_id": "https://openalex.org/W2023507218",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 450,
+      "paper_id": "https://openalex.org/W2078000981",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 451,
+      "paper_id": "https://openalex.org/W2104698360",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 452,
+      "paper_id": "https://openalex.org/W2333109753",
+      "codex_label": "Bibliographic / repository metadata"
+    },
+    {
+      "entry_id": 453,
+      "paper_id": "https://openalex.org/W2086546074",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 454,
+      "paper_id": "https://openalex.org/W4391354382",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 455,
+      "paper_id": "https://openalex.org/W7066484457",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 456,
+      "paper_id": "https://openalex.org/W66156882",
+      "codex_label": "Truncated abstract"
+    },
+    {
+      "entry_id": 457,
+      "paper_id": "https://openalex.org/W2146621172",
+      "codex_label": "Wrong scholarly genre"
+    },
+    {
+      "entry_id": 458,
+      "paper_id": "https://openalex.org/W2030511495",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 459,
+      "paper_id": "https://openalex.org/W2599151800",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 460,
+      "paper_id": "https://openalex.org/W1967223097",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 461,
+      "paper_id": "https://openalex.org/W4283323347",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 462,
+      "paper_id": "https://openalex.org/W2000166867",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 463,
+      "paper_id": "https://openalex.org/W4405153380",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 464,
+      "paper_id": "https://openalex.org/W3207098420",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 465,
+      "paper_id": "https://openalex.org/W4299811687",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 466,
+      "paper_id": "https://openalex.org/W2093625784",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 467,
+      "paper_id": "https://openalex.org/W1519849653",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 468,
+      "paper_id": "https://openalex.org/W4403279057",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 469,
+      "paper_id": "https://openalex.org/W4246281683",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 470,
+      "paper_id": "https://openalex.org/W2152386996",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 471,
+      "paper_id": "https://openalex.org/W2029980535",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 472,
+      "paper_id": "https://openalex.org/W2081413497",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 473,
+      "paper_id": "https://openalex.org/W3126393513",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 474,
+      "paper_id": "https://openalex.org/W2062765198",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 475,
+      "paper_id": "https://openalex.org/W2103190442",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 476,
+      "paper_id": "https://openalex.org/W1969709329",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 477,
+      "paper_id": "https://openalex.org/W2261442271",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 478,
+      "paper_id": "https://openalex.org/W1981680129",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 479,
+      "paper_id": "https://openalex.org/W2766884506",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 480,
+      "paper_id": "https://openalex.org/W4220892867",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 481,
+      "paper_id": "https://openalex.org/W2044832707",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 482,
+      "paper_id": "https://openalex.org/W2975859535",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 483,
+      "paper_id": "https://openalex.org/W2127096583",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 484,
+      "paper_id": "https://openalex.org/W4404533305",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 485,
+      "paper_id": "https://openalex.org/W2074094407",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 486,
+      "paper_id": "https://openalex.org/W2926595850",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 487,
+      "paper_id": "https://openalex.org/W2084878396",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 488,
+      "paper_id": "https://openalex.org/W4390055976",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 489,
+      "paper_id": "https://openalex.org/W2033983619",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 490,
+      "paper_id": "https://openalex.org/W2529727302",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 491,
+      "paper_id": "https://openalex.org/W4320081870",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 492,
+      "paper_id": "https://openalex.org/W2557922677",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 493,
+      "paper_id": "https://openalex.org/W2050105337",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 494,
+      "paper_id": "https://openalex.org/W2031471005",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 495,
+      "paper_id": "https://openalex.org/W4387159753",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 496,
+      "paper_id": "https://openalex.org/W2124743567",
+      "codex_label": "Insufficient abstract content"
+    },
+    {
+      "entry_id": 497,
+      "paper_id": "https://openalex.org/W2157112332",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 498,
+      "paper_id": "https://openalex.org/W2066813507",
+      "codex_label": "Valid"
+    },
+    {
+      "entry_id": 499,
+      "paper_id": "https://openalex.org/W4285724925",
+      "codex_label": "Valid"
+    }
+  ]
+}
