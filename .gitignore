@@ -1,0 +1,73 @@
+# Secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated data and outputs (74 MB; regenerated from scripts)
+# output/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.out
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# No md files
+*.md
+!README.md
+
+# No backup files
+*.bak
+
+# No references & submissions folders
+references/
+submissions/
+
+# No semantic scholar related files
+s2*.*
+semantic_scholar_*.py
+extract_dois_hpc.ipynb
+
+
+
+# Generated documents (regenerate from source .tex / .py)
+submissions/sti/*.docx
