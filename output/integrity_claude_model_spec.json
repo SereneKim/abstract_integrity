@@ -1,0 +1,24 @@
+{
+  "model": "claude-opus-4-6",
+  "model_context": "1M tokens",
+  "classification_method": "in-context subagent (Claude Code Agent tool)",
+  "temperature": "not controllable (subagent default)",
+  "sampling": "not controllable (subagent default)",
+  "classification_question": "Is this a complete and meaningful scientific abstract?",
+  "agent_prompt_template": "You are annotating scientific abstracts for data quality.\nRead the file at: output/batch_N.json\nFor each entry, answer this question: \"Is this a complete and meaningful scientific abstract?\"\nAnswer Yes (true) or No (false) for each entry.\nWrite your results to: output/integrity_claude_batch_N.json\nThe output file should be a JSON object mapping entry_id (as string) to boolean (true = Yes, false = No).\nMake sure you classify ALL 100 entries. Do not skip any.",
+  "additional_criteria_given": "none \u2014 model uses own judgment, same as human annotators who only saw the question in the GUI",
+  "batch_structure": {
+    "total_entries": 1000,
+    "n_batches": 10,
+    "entries_per_batch": 100,
+    "waves": 2,
+    "batches_per_wave": 5
+  },
+  "results_summary": {
+    "total_yes": 876,
+    "total_no": 124,
+    "rejection_rate": 12.4,
+    "missing_entries": []
+  },
+  "timestamp": "2026-03-27T11:49:24.838740+00:00"
+}

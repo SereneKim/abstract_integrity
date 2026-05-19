@@ -1,0 +1,2023 @@
+{
+  "description": "Joint resolution of integrity disagreements",
+  "n_entries": 1000,
+  "started": "2026-03-27T13:00:24.837580+00:00",
+  "last_saved": "2026-03-27T15:32:46.424018+00:00",
+  "answers": {
+    "1": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:01:57.016868+00:00"
+    },
+    "3": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:02:39.015907+00:00",
+      "comment": "Could be TL;DR"
+    },
+    "5": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:03:18.016096+00:00",
+      "comment": "Case report"
+    },
+    "17": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:03:28.532873+00:00"
+    },
+    "20": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:04:32.647562+00:00"
+    },
+    "40": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:05:17.332736+00:00"
+    },
+    "41": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": false,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:05:41.848919+00:00",
+      "comment": "Story telling"
+    },
+    "42": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:05:55.699384+00:00"
+    },
+    "46": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:06:45.449355+00:00"
+    },
+    "52": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:06:56.516659+00:00"
+    },
+    "59": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:07:17.851044+00:00"
+    },
+    "69": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:08:11.565925+00:00",
+      "comment": "No result. No problem stated."
+    },
+    "73": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": false,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:08:28.083139+00:00"
+    },
+    "74": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:09:48.834312+00:00"
+    },
+    "75": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:10:38.267119+00:00",
+      "comment": "Very short. Only result. No background info."
+    },
+    "77": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:10:51.416885+00:00"
+    },
+    "86": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:11:14.250742+00:00",
+      "comment": "No background info. Only result."
+    },
+    "87": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:11:58.432328+00:00",
+      "comment": "Introduction instead of abstract."
+    },
+    "90": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:12:05.917857+00:00"
+    },
+    "91": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:13:10.651586+00:00",
+      "comment": "TL;DR vibes."
+    },
+    "92": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:13:23.851260+00:00"
+    },
+    "94": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:13:45.735358+00:00",
+      "comment": "TL;DR."
+    },
+    "105": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:14:05.718662+00:00"
+    },
+    "112": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:14:15.368721+00:00"
+    },
+    "117": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:14:33.951622+00:00",
+      "comment": "TL;DR. Only result."
+    },
+    "125": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:14:49.568032+00:00"
+    },
+    "129": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:15:15.653358+00:00",
+      "comment": "No background."
+    },
+    "130": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:15:37.418200+00:00",
+      "comment": "Case report"
+    },
+    "132": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:16:50.868692+00:00",
+      "comment": "borderline case, both answers defendable"
+    },
+    "137": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T13:18:39.703160+00:00",
+      "comment": "Introduction, which is cut off. Contains meaningful information."
+    },
+    "138": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:18:48.103571+00:00"
+    },
+    "141": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:19:17.134872+00:00",
+      "comment": "Case report"
+    },
+    "143": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:19:45.536089+00:00"
+    },
+    "148": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": false,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:20:02.969678+00:00",
+      "comment": "Start cut off"
+    },
+    "152": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:20:37.502926+00:00",
+      "comment": "Introduction"
+    },
+    "163": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:20:51.985646+00:00"
+    },
+    "167": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:21:40.304294+00:00"
+    },
+    "171": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:21:49.787302+00:00",
+      "comment": "Case report"
+    },
+    "173": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:27:10.606613+00:00",
+      "comment": "Very badly written with spelling mistakes."
+    },
+    "174": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:27:26.819993+00:00"
+    },
+    "177": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:27:40.274764+00:00",
+      "comment": "TL;DR"
+    },
+    "179": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:27:46.771638+00:00"
+    },
+    "188": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:28:08.556227+00:00"
+    },
+    "191": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:28:20.955501+00:00"
+    },
+    "194": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:28:30.589325+00:00"
+    },
+    "195": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": false,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:28:36.922156+00:00"
+    },
+    "197": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:30:20.204037+00:00"
+    },
+    "198": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:30:35.323140+00:00"
+    },
+    "200": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:30:45.555668+00:00"
+    },
+    "204": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:30:59.588804+00:00"
+    },
+    "220": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:31:05.822014+00:00"
+    },
+    "227": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:31:39.964071+00:00",
+      "comment": "Case report"
+    },
+    "230": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:32:10.072925+00:00"
+    },
+    "231": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:32:24.204573+00:00"
+    },
+    "232": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:32:38.339733+00:00",
+      "comment": "Incomplete"
+    },
+    "243": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:32:54.922629+00:00"
+    },
+    "244": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:33:13.389798+00:00",
+      "comment": "TL;DR"
+    },
+    "247": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:33:27.855936+00:00",
+      "comment": "TL;DR"
+    },
+    "257": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:33:34.239347+00:00"
+    },
+    "258": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:33:55.173909+00:00"
+    },
+    "270": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:34:08.589915+00:00"
+    },
+    "271": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:58:23.411550+00:00"
+    },
+    "275": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T13:58:40.143537+00:00"
+    },
+    "276": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:44:05.164492+00:00"
+    },
+    "288": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:44:13.481128+00:00"
+    },
+    "312": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:45:04.629333+00:00",
+      "comment": "TL;DR. Both answers defendable."
+    },
+    "318": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:45:13.548187+00:00"
+    },
+    "321": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:45:51.781808+00:00"
+    },
+    "323": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:50:46.672321+00:00"
+    },
+    "326": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:50:55.221819+00:00",
+      "comment": "TL;DR"
+    },
+    "335": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:51:38.089575+00:00",
+      "comment": "Seems like book."
+    },
+    "336": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:51:58.270989+00:00",
+      "comment": "Introduction"
+    },
+    "338": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:52:08.123176+00:00"
+    },
+    "340": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T14:52:17.372761+00:00"
+    },
+    "345": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:54:07.639207+00:00",
+      "comment": "Borderline."
+    },
+    "353": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:54:17.211264+00:00",
+      "comment": "TL;DR"
+    },
+    "354": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:55:11.739930+00:00"
+    },
+    "360": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:55:22.957677+00:00",
+      "comment": "TL;DR"
+    },
+    "367": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:55:39.024843+00:00",
+      "comment": "Cut off"
+    },
+    "368": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:55:46.275023+00:00"
+    },
+    "373": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:55:56.341475+00:00"
+    },
+    "374": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:56:01.825081+00:00"
+    },
+    "376": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T14:56:07.141891+00:00"
+    },
+    "381": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:56:45.558410+00:00",
+      "comment": "Bullet points"
+    },
+    "382": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:56:57.608971+00:00"
+    },
+    "389": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": false,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T14:57:52.840519+00:00",
+      "comment": "Introduction of book"
+    },
+    "396": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:57:58.758705+00:00"
+    },
+    "397": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:58:07.541897+00:00"
+    },
+    "407": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:58:16.408007+00:00"
+    },
+    "410": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": false,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T14:58:34.176295+00:00"
+    },
+    "419": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:58:42.475899+00:00"
+    },
+    "427": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:58:53.359067+00:00"
+    },
+    "430": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:59:08.109036+00:00",
+      "comment": "TL;DR"
+    },
+    "438": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:59:29.094353+00:00"
+    },
+    "446": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:59:38.929188+00:00",
+      "comment": "TL;DR"
+    },
+    "449": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T14:59:51.792220+00:00",
+      "comment": "TL;DR"
+    },
+    "457": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:00:04.392688+00:00"
+    },
+    "458": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:00:22.876383+00:00"
+    },
+    "459": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:00:48.043383+00:00"
+    },
+    "460": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:00:57.142041+00:00"
+    },
+    "468": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:01:05.359613+00:00"
+    },
+    "475": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:01:12.676585+00:00"
+    },
+    "478": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:01:29.776856+00:00"
+    },
+    "480": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:01:41.344615+00:00"
+    },
+    "481": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:01:48.460242+00:00"
+    },
+    "487": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:01:56.744560+00:00"
+    },
+    "494": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:02:06.593947+00:00"
+    },
+    "496": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:02:17.377679+00:00"
+    },
+    "503": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:02:26.410275+00:00"
+    },
+    "507": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:02:32.165127+00:00"
+    },
+    "508": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:02:59.660592+00:00",
+      "comment": "Introduction"
+    },
+    "527": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:03:25.293407+00:00"
+    },
+    "532": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:03:30.961388+00:00"
+    },
+    "537": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:03:40.710011+00:00"
+    },
+    "541": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:03:48.711107+00:00"
+    },
+    "549": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:04:04.561550+00:00",
+      "comment": "TL;DR"
+    },
+    "554": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:04:20.945365+00:00"
+    },
+    "559": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:04:30.395846+00:00"
+    },
+    "560": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:04:47.161808+00:00"
+    },
+    "563": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:04:54.528861+00:00"
+    },
+    "566": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:05:06.578478+00:00"
+    },
+    "584": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:05:14.811833+00:00"
+    },
+    "593": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:05:20.046009+00:00"
+    },
+    "595": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:05:40.609900+00:00"
+    },
+    "598": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:05:49.912018+00:00"
+    },
+    "604": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:05:58.378786+00:00"
+    },
+    "605": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:06:04.428932+00:00"
+    },
+    "611": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:06:53.662387+00:00"
+    },
+    "612": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:06:58.062385+00:00"
+    },
+    "613": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:08:02.346502+00:00",
+      "comment": "borderline."
+    },
+    "619": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:08:12.896921+00:00",
+      "comment": "Case report"
+    },
+    "634": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": false,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:08:17.280431+00:00"
+    },
+    "642": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:09:43.487716+00:00",
+      "comment": "Book"
+    },
+    "651": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:09:58.381122+00:00",
+      "comment": "Abstract sandwiched"
+    },
+    "652": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:10:18.196979+00:00"
+    },
+    "655": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:10:28.380717+00:00"
+    },
+    "660": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:10:40.097308+00:00"
+    },
+    "664": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:10:44.497596+00:00"
+    },
+    "666": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:10:51.098680+00:00"
+    },
+    "677": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:11:07.381542+00:00",
+      "comment": "Case report"
+    },
+    "678": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": false,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:11:28.663110+00:00",
+      "comment": "TL;DR"
+    },
+    "682": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:11:36.715567+00:00"
+    },
+    "683": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:11:48.847786+00:00"
+    },
+    "690": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": false,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:11:54.247538+00:00"
+    },
+    "693": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:12:06.082011+00:00"
+    },
+    "696": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:12:20.565207+00:00"
+    },
+    "698": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:12:27.199294+00:00"
+    },
+    "700": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:12:43.731507+00:00"
+    },
+    "702": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:16:46.518298+00:00",
+      "comment": "Part of a book series"
+    },
+    "709": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:17:02.165241+00:00"
+    },
+    "717": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:17:45.417572+00:00"
+    },
+    "728": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:17:50.683762+00:00"
+    },
+    "729": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:17:58.451057+00:00"
+    },
+    "733": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:18:56.702713+00:00",
+      "comment": "Incomplete, but contains all information."
+    },
+    "735": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:20:19.536271+00:00",
+      "comment": "Incomplete. Missing second part."
+    },
+    "736": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:20:31.519261+00:00"
+    },
+    "737": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:21:14.385475+00:00",
+      "comment": "Book"
+    },
+    "740": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:22:14.869975+00:00",
+      "comment": "Only scraped conclusion, abstract also contains background, aim, method, and results."
+    },
+    "748": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:22:26.803200+00:00"
+    },
+    "756": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:24:05.720969+00:00",
+      "comment": "Incomplete, only conclusion. Background, methods and results missing"
+    },
+    "769": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:24:10.935764+00:00"
+    },
+    "774": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:24:16.320152+00:00"
+    },
+    "777": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:24:52.104955+00:00",
+      "comment": "Only conclusion, BMR missing."
+    },
+    "783": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:25:32.831001+00:00",
+      "comment": "Case report"
+    },
+    "790": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:25:40.170838+00:00"
+    },
+    "802": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:25:53.086295+00:00"
+    },
+    "806": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:25:59.137261+00:00"
+    },
+    "812": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:26:12.202839+00:00"
+    },
+    "819": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:26:21.221073+00:00"
+    },
+    "820": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:26:24.321116+00:00"
+    },
+    "829": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:26:40.387941+00:00"
+    },
+    "831": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:26:55.887624+00:00"
+    },
+    "834": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:26:59.804773+00:00"
+    },
+    "835": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:27:03.920862+00:00"
+    },
+    "836": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:27:14.140922+00:00"
+    },
+    "838": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:27:20.588231+00:00"
+    },
+    "848": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:27:27.488779+00:00"
+    },
+    "855": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:28:00.088568+00:00"
+    },
+    "858": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:29:29.908195+00:00"
+    },
+    "875": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:29:33.488551+00:00"
+    },
+    "883": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:29:46.372876+00:00"
+    },
+    "889": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:29:49.589414+00:00"
+    },
+    "893": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:29:53.755124+00:00"
+    },
+    "897": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:30:11.273429+00:00"
+    },
+    "902": {
+      "answer": true,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:30:20.290085+00:00"
+    },
+    "917": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:30:25.154971+00:00"
+    },
+    "919": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:30:31.756615+00:00"
+    },
+    "925": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:30:36.039522+00:00"
+    },
+    "940": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:31:07.723759+00:00",
+      "comment": "Abstract incomplete. BMR missing."
+    },
+    "943": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": false,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:31:09.422061+00:00"
+    },
+    "952": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:31:15.257068+00:00"
+    },
+    "955": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:31:18.623722+00:00"
+    },
+    "960": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:31:23.339141+00:00"
+    },
+    "961": {
+      "answer": false,
+      "original_votes": {
+        "Claude": false,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:31:47.257096+00:00",
+      "comment": "Incomplete, BMR missing."
+    },
+    "969": {
+      "answer": true,
+      "original_votes": {
+        "Claude": true,
+        "Codex": true,
+        "A1": true,
+        "A2": false
+      },
+      "timestamp": "2026-03-27T15:32:22.540957+00:00"
+    },
+    "980": {
+      "answer": false,
+      "original_votes": {
+        "Claude": true,
+        "Codex": false,
+        "A1": true,
+        "A2": true
+      },
+      "timestamp": "2026-03-27T15:32:46.423915+00:00"
+    }
+  }
+}

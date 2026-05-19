@@ -1,0 +1,54 @@
+{
+  "run_metadata": {
+    "model": "GPT-5.4",
+    "reasoning_effort": "high",
+    "agent_type": "worker_subagent",
+    "start": "2026-03-27T11:46:47Z",
+    "end": "2026-03-27T11:46:47Z"
+  },
+  "source_inputs": {
+    "task_file": "HDBSCAN_validity/human_cleaning_background_data/output/integrity_tasks.json",
+    "scope": {
+      "entry_id_start": 0,
+      "entry_id_end": 999,
+      "n_entries": 1000
+    }
+  },
+  "restriction_policy": {
+    "allowed_reads": [
+      "HDBSCAN_validity/human_cleaning_background_data/output/integrity_tasks.json"
+    ],
+    "forbidden_human_label_reads": true,
+    "owned_writes": [
+      "HDBSCAN_validity/human_cleaning_background_data/output/integrity_Codex_GPT54_first1000.json",
+      "HDBSCAN_validity/human_cleaning_background_data/output/integrity_Codex_GPT54_first1000_specs.json",
+      "HDBSCAN_validity/human_cleaning_background_data/output/integrity_Codex_GPT54_first1000_provenance.json"
+    ],
+    "note": "Did not read integrity_Vince.json, integrity_Seorin.json, or any other existing human integrity annotation files."
+  },
+  "decision_policy": {
+    "question": "Is this a complete and meaningful scientific abstract?",
+    "yes_rule": "Mark Yes when the text is a complete and meaningful scientific abstract.",
+    "no_rule": "Mark No for empty abstracts, cookie banners, truncated text, placeholder strings, and other non-abstract content.",
+    "rejection_criteria": [
+      "placeholder or no-abstract notices",
+      "publisher/navigation or repository metadata",
+      "citation-only or title-only text",
+      "question-only snippets",
+      "fragments truncated mid-sentence or mid-thought"
+    ]
+  },
+  "validation_checks": {
+    "existence": true,
+    "key_coverage": true,
+    "types": true,
+    "count": 1000,
+    "paper_id_match": true
+  },
+  "summary_stats": {
+    "n_yes": 939,
+    "n_no": 61,
+    "yes_rate": 0.939,
+    "no_rate": 0.061
+  }
+}

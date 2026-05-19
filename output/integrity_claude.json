@@ -1,0 +1,3009 @@
+{
+  "annotator": "claude-opus-4-6",
+  "mode": "integrity",
+  "task_file": "integrity_tasks.json",
+  "started": "2026-03-27T11:49:24.838740+00:00",
+  "last_saved": "2026-03-27T11:49:24.838740+00:00",
+  "answers": {
+    "0": {
+      "answer": false
+    },
+    "1": {
+      "answer": true
+    },
+    "2": {
+      "answer": true
+    },
+    "3": {
+      "answer": true
+    },
+    "4": {
+      "answer": true
+    },
+    "5": {
+      "answer": true
+    },
+    "6": {
+      "answer": true
+    },
+    "7": {
+      "answer": true
+    },
+    "8": {
+      "answer": true
+    },
+    "9": {
+      "answer": true
+    },
+    "10": {
+      "answer": true
+    },
+    "11": {
+      "answer": true
+    },
+    "12": {
+      "answer": true
+    },
+    "13": {
+      "answer": true
+    },
+    "14": {
+      "answer": true
+    },
+    "15": {
+      "answer": true
+    },
+    "16": {
+      "answer": true
+    },
+    "17": {
+      "answer": true
+    },
+    "18": {
+      "answer": true
+    },
+    "19": {
+      "answer": true
+    },
+    "20": {
+      "answer": true
+    },
+    "21": {
+      "answer": true
+    },
+    "22": {
+      "answer": true
+    },
+    "23": {
+      "answer": true
+    },
+    "24": {
+      "answer": true
+    },
+    "25": {
+      "answer": true
+    },
+    "26": {
+      "answer": true
+    },
+    "27": {
+      "answer": true
+    },
+    "28": {
+      "answer": true
+    },
+    "29": {
+      "answer": true
+    },
+    "30": {
+      "answer": true
+    },
+    "31": {
+      "answer": true
+    },
+    "32": {
+      "answer": true
+    },
+    "33": {
+      "answer": true
+    },
+    "34": {
+      "answer": true
+    },
+    "35": {
+      "answer": true
+    },
+    "36": {
+      "answer": false
+    },
+    "37": {
+      "answer": true
+    },
+    "38": {
+      "answer": true
+    },
+    "39": {
+      "answer": true
+    },
+    "40": {
+      "answer": true
+    },
+    "41": {
+      "answer": false
+    },
+    "42": {
+      "answer": false
+    },
+    "43": {
+      "answer": true
+    },
+    "44": {
+      "answer": true
+    },
+    "45": {
+      "answer": true
+    },
+    "46": {
+      "answer": true
+    },
+    "47": {
+      "answer": true
+    },
+    "48": {
+      "answer": true
+    },
+    "49": {
+      "answer": true
+    },
+    "50": {
+      "answer": true
+    },
+    "51": {
+      "answer": true
+    },
+    "52": {
+      "answer": true
+    },
+    "53": {
+      "answer": true
+    },
+    "54": {
+      "answer": true
+    },
+    "55": {
+      "answer": true
+    },
+    "56": {
+      "answer": true
+    },
+    "57": {
+      "answer": true
+    },
+    "58": {
+      "answer": true
+    },
+    "59": {
+      "answer": true
+    },
+    "60": {
+      "answer": true
+    },
+    "61": {
+      "answer": true
+    },
+    "62": {
+      "answer": true
+    },
+    "63": {
+      "answer": true
+    },
+    "64": {
+      "answer": true
+    },
+    "65": {
+      "answer": true
+    },
+    "66": {
+      "answer": true
+    },
+    "67": {
+      "answer": true
+    },
+    "68": {
+      "answer": true
+    },
+    "69": {
+      "answer": false
+    },
+    "70": {
+      "answer": true
+    },
+    "71": {
+      "answer": true
+    },
+    "72": {
+      "answer": true
+    },
+    "73": {
+      "answer": false
+    },
+    "74": {
+      "answer": true
+    },
+    "75": {
+      "answer": false
+    },
+    "76": {
+      "answer": true
+    },
+    "77": {
+      "answer": true
+    },
+    "78": {
+      "answer": true
+    },
+    "79": {
+      "answer": true
+    },
+    "80": {
+      "answer": true
+    },
+    "81": {
+      "answer": true
+    },
+    "82": {
+      "answer": true
+    },
+    "83": {
+      "answer": true
+    },
+    "84": {
+      "answer": true
+    },
+    "85": {
+      "answer": true
+    },
+    "86": {
+      "answer": false
+    },
+    "87": {
+      "answer": true
+    },
+    "88": {
+      "answer": true
+    },
+    "89": {
+      "answer": true
+    },
+    "90": {
+      "answer": true
+    },
+    "91": {
+      "answer": true
+    },
+    "92": {
+      "answer": true
+    },
+    "93": {
+      "answer": true
+    },
+    "94": {
+      "answer": false
+    },
+    "95": {
+      "answer": true
+    },
+    "96": {
+      "answer": true
+    },
+    "97": {
+      "answer": true
+    },
+    "98": {
+      "answer": true
+    },
+    "99": {
+      "answer": true
+    },
+    "100": {
+      "answer": true
+    },
+    "101": {
+      "answer": true
+    },
+    "102": {
+      "answer": true
+    },
+    "103": {
+      "answer": true
+    },
+    "104": {
+      "answer": true
+    },
+    "105": {
+      "answer": true
+    },
+    "106": {
+      "answer": true
+    },
+    "107": {
+      "answer": true
+    },
+    "108": {
+      "answer": true
+    },
+    "109": {
+      "answer": false
+    },
+    "110": {
+      "answer": true
+    },
+    "111": {
+      "answer": true
+    },
+    "112": {
+      "answer": true
+    },
+    "113": {
+      "answer": true
+    },
+    "114": {
+      "answer": false
+    },
+    "115": {
+      "answer": true
+    },
+    "116": {
+      "answer": true
+    },
+    "117": {
+      "answer": false
+    },
+    "118": {
+      "answer": false
+    },
+    "119": {
+      "answer": true
+    },
+    "120": {
+      "answer": true
+    },
+    "121": {
+      "answer": true
+    },
+    "122": {
+      "answer": true
+    },
+    "123": {
+      "answer": true
+    },
+    "124": {
+      "answer": true
+    },
+    "125": {
+      "answer": true
+    },
+    "126": {
+      "answer": true
+    },
+    "127": {
+      "answer": true
+    },
+    "128": {
+      "answer": true
+    },
+    "129": {
+      "answer": false
+    },
+    "130": {
+      "answer": true
+    },
+    "131": {
+      "answer": true
+    },
+    "132": {
+      "answer": false
+    },
+    "133": {
+      "answer": true
+    },
+    "134": {
+      "answer": true
+    },
+    "135": {
+      "answer": true
+    },
+    "136": {
+      "answer": true
+    },
+    "137": {
+      "answer": false
+    },
+    "138": {
+      "answer": true
+    },
+    "139": {
+      "answer": true
+    },
+    "140": {
+      "answer": true
+    },
+    "141": {
+      "answer": true
+    },
+    "142": {
+      "answer": true
+    },
+    "143": {
+      "answer": false
+    },
+    "144": {
+      "answer": true
+    },
+    "145": {
+      "answer": true
+    },
+    "146": {
+      "answer": true
+    },
+    "147": {
+      "answer": true
+    },
+    "148": {
+      "answer": false
+    },
+    "149": {
+      "answer": true
+    },
+    "150": {
+      "answer": true
+    },
+    "151": {
+      "answer": true
+    },
+    "152": {
+      "answer": true
+    },
+    "153": {
+      "answer": true
+    },
+    "154": {
+      "answer": true
+    },
+    "155": {
+      "answer": true
+    },
+    "156": {
+      "answer": true
+    },
+    "157": {
+      "answer": true
+    },
+    "158": {
+      "answer": true
+    },
+    "159": {
+      "answer": true
+    },
+    "160": {
+      "answer": true
+    },
+    "161": {
+      "answer": true
+    },
+    "162": {
+      "answer": true
+    },
+    "163": {
+      "answer": false
+    },
+    "164": {
+      "answer": true
+    },
+    "165": {
+      "answer": true
+    },
+    "166": {
+      "answer": false
+    },
+    "167": {
+      "answer": true
+    },
+    "168": {
+      "answer": true
+    },
+    "169": {
+      "answer": true
+    },
+    "170": {
+      "answer": true
+    },
+    "171": {
+      "answer": true
+    },
+    "172": {
+      "answer": true
+    },
+    "173": {
+      "answer": true
+    },
+    "174": {
+      "answer": true
+    },
+    "175": {
+      "answer": true
+    },
+    "176": {
+      "answer": true
+    },
+    "177": {
+      "answer": false
+    },
+    "178": {
+      "answer": true
+    },
+    "179": {
+      "answer": true
+    },
+    "180": {
+      "answer": true
+    },
+    "181": {
+      "answer": true
+    },
+    "182": {
+      "answer": true
+    },
+    "183": {
+      "answer": true
+    },
+    "184": {
+      "answer": true
+    },
+    "185": {
+      "answer": true
+    },
+    "186": {
+      "answer": true
+    },
+    "187": {
+      "answer": true
+    },
+    "188": {
+      "answer": true
+    },
+    "189": {
+      "answer": true
+    },
+    "190": {
+      "answer": true
+    },
+    "191": {
+      "answer": true
+    },
+    "192": {
+      "answer": true
+    },
+    "193": {
+      "answer": false
+    },
+    "194": {
+      "answer": true
+    },
+    "195": {
+      "answer": false
+    },
+    "196": {
+      "answer": true
+    },
+    "197": {
+      "answer": true
+    },
+    "198": {
+      "answer": true
+    },
+    "199": {
+      "answer": true
+    },
+    "200": {
+      "answer": true
+    },
+    "201": {
+      "answer": true
+    },
+    "202": {
+      "answer": true
+    },
+    "203": {
+      "answer": true
+    },
+    "204": {
+      "answer": true
+    },
+    "205": {
+      "answer": true
+    },
+    "206": {
+      "answer": true
+    },
+    "207": {
+      "answer": true
+    },
+    "208": {
+      "answer": true
+    },
+    "209": {
+      "answer": true
+    },
+    "210": {
+      "answer": true
+    },
+    "211": {
+      "answer": true
+    },
+    "212": {
+      "answer": true
+    },
+    "213": {
+      "answer": true
+    },
+    "214": {
+      "answer": false
+    },
+    "215": {
+      "answer": true
+    },
+    "216": {
+      "answer": true
+    },
+    "217": {
+      "answer": true
+    },
+    "218": {
+      "answer": true
+    },
+    "219": {
+      "answer": true
+    },
+    "220": {
+      "answer": true
+    },
+    "221": {
+      "answer": true
+    },
+    "222": {
+      "answer": true
+    },
+    "223": {
+      "answer": true
+    },
+    "224": {
+      "answer": false
+    },
+    "225": {
+      "answer": true
+    },
+    "226": {
+      "answer": true
+    },
+    "227": {
+      "answer": true
+    },
+    "228": {
+      "answer": true
+    },
+    "229": {
+      "answer": true
+    },
+    "230": {
+      "answer": true
+    },
+    "231": {
+      "answer": true
+    },
+    "232": {
+      "answer": false
+    },
+    "233": {
+      "answer": true
+    },
+    "234": {
+      "answer": true
+    },
+    "235": {
+      "answer": true
+    },
+    "236": {
+      "answer": false
+    },
+    "237": {
+      "answer": true
+    },
+    "238": {
+      "answer": true
+    },
+    "239": {
+      "answer": false
+    },
+    "240": {
+      "answer": true
+    },
+    "241": {
+      "answer": true
+    },
+    "242": {
+      "answer": true
+    },
+    "243": {
+      "answer": true
+    },
+    "244": {
+      "answer": true
+    },
+    "245": {
+      "answer": true
+    },
+    "246": {
+      "answer": true
+    },
+    "247": {
+      "answer": true
+    },
+    "248": {
+      "answer": false
+    },
+    "249": {
+      "answer": true
+    },
+    "250": {
+      "answer": true
+    },
+    "251": {
+      "answer": true
+    },
+    "252": {
+      "answer": true
+    },
+    "253": {
+      "answer": true
+    },
+    "254": {
+      "answer": true
+    },
+    "255": {
+      "answer": true
+    },
+    "256": {
+      "answer": true
+    },
+    "257": {
+      "answer": true
+    },
+    "258": {
+      "answer": false
+    },
+    "259": {
+      "answer": true
+    },
+    "260": {
+      "answer": true
+    },
+    "261": {
+      "answer": true
+    },
+    "262": {
+      "answer": true
+    },
+    "263": {
+      "answer": true
+    },
+    "264": {
+      "answer": true
+    },
+    "265": {
+      "answer": true
+    },
+    "266": {
+      "answer": true
+    },
+    "267": {
+      "answer": true
+    },
+    "268": {
+      "answer": true
+    },
+    "269": {
+      "answer": true
+    },
+    "270": {
+      "answer": true
+    },
+    "271": {
+      "answer": true
+    },
+    "272": {
+      "answer": true
+    },
+    "273": {
+      "answer": true
+    },
+    "274": {
+      "answer": true
+    },
+    "275": {
+      "answer": true
+    },
+    "276": {
+      "answer": false
+    },
+    "277": {
+      "answer": true
+    },
+    "278": {
+      "answer": true
+    },
+    "279": {
+      "answer": true
+    },
+    "280": {
+      "answer": true
+    },
+    "281": {
+      "answer": true
+    },
+    "282": {
+      "answer": true
+    },
+    "283": {
+      "answer": true
+    },
+    "284": {
+      "answer": true
+    },
+    "285": {
+      "answer": true
+    },
+    "286": {
+      "answer": true
+    },
+    "287": {
+      "answer": true
+    },
+    "288": {
+      "answer": true
+    },
+    "289": {
+      "answer": true
+    },
+    "290": {
+      "answer": true
+    },
+    "291": {
+      "answer": true
+    },
+    "292": {
+      "answer": true
+    },
+    "293": {
+      "answer": true
+    },
+    "294": {
+      "answer": true
+    },
+    "295": {
+      "answer": true
+    },
+    "296": {
+      "answer": true
+    },
+    "297": {
+      "answer": true
+    },
+    "298": {
+      "answer": true
+    },
+    "299": {
+      "answer": true
+    },
+    "300": {
+      "answer": true
+    },
+    "301": {
+      "answer": true
+    },
+    "302": {
+      "answer": true
+    },
+    "303": {
+      "answer": true
+    },
+    "304": {
+      "answer": true
+    },
+    "305": {
+      "answer": true
+    },
+    "306": {
+      "answer": true
+    },
+    "307": {
+      "answer": true
+    },
+    "308": {
+      "answer": true
+    },
+    "309": {
+      "answer": false
+    },
+    "310": {
+      "answer": true
+    },
+    "311": {
+      "answer": true
+    },
+    "312": {
+      "answer": false
+    },
+    "313": {
+      "answer": true
+    },
+    "314": {
+      "answer": true
+    },
+    "315": {
+      "answer": true
+    },
+    "316": {
+      "answer": true
+    },
+    "317": {
+      "answer": true
+    },
+    "318": {
+      "answer": true
+    },
+    "319": {
+      "answer": true
+    },
+    "320": {
+      "answer": true
+    },
+    "321": {
+      "answer": true
+    },
+    "322": {
+      "answer": true
+    },
+    "323": {
+      "answer": true
+    },
+    "324": {
+      "answer": true
+    },
+    "325": {
+      "answer": true
+    },
+    "326": {
+      "answer": false
+    },
+    "327": {
+      "answer": true
+    },
+    "328": {
+      "answer": true
+    },
+    "329": {
+      "answer": true
+    },
+    "330": {
+      "answer": true
+    },
+    "331": {
+      "answer": true
+    },
+    "332": {
+      "answer": true
+    },
+    "333": {
+      "answer": true
+    },
+    "334": {
+      "answer": true
+    },
+    "335": {
+      "answer": true
+    },
+    "336": {
+      "answer": true
+    },
+    "337": {
+      "answer": true
+    },
+    "338": {
+      "answer": true
+    },
+    "339": {
+      "answer": true
+    },
+    "340": {
+      "answer": false
+    },
+    "341": {
+      "answer": true
+    },
+    "342": {
+      "answer": true
+    },
+    "343": {
+      "answer": true
+    },
+    "344": {
+      "answer": true
+    },
+    "345": {
+      "answer": true
+    },
+    "346": {
+      "answer": true
+    },
+    "347": {
+      "answer": false
+    },
+    "348": {
+      "answer": true
+    },
+    "349": {
+      "answer": true
+    },
+    "350": {
+      "answer": false
+    },
+    "351": {
+      "answer": true
+    },
+    "352": {
+      "answer": true
+    },
+    "353": {
+      "answer": false
+    },
+    "354": {
+      "answer": true
+    },
+    "355": {
+      "answer": true
+    },
+    "356": {
+      "answer": true
+    },
+    "357": {
+      "answer": true
+    },
+    "358": {
+      "answer": true
+    },
+    "359": {
+      "answer": true
+    },
+    "360": {
+      "answer": false
+    },
+    "361": {
+      "answer": true
+    },
+    "362": {
+      "answer": true
+    },
+    "363": {
+      "answer": true
+    },
+    "364": {
+      "answer": true
+    },
+    "365": {
+      "answer": true
+    },
+    "366": {
+      "answer": true
+    },
+    "367": {
+      "answer": true
+    },
+    "368": {
+      "answer": true
+    },
+    "369": {
+      "answer": true
+    },
+    "370": {
+      "answer": true
+    },
+    "371": {
+      "answer": true
+    },
+    "372": {
+      "answer": true
+    },
+    "373": {
+      "answer": true
+    },
+    "374": {
+      "answer": false
+    },
+    "375": {
+      "answer": true
+    },
+    "376": {
+      "answer": false
+    },
+    "377": {
+      "answer": true
+    },
+    "378": {
+      "answer": true
+    },
+    "379": {
+      "answer": true
+    },
+    "380": {
+      "answer": false
+    },
+    "381": {
+      "answer": true
+    },
+    "382": {
+      "answer": true
+    },
+    "383": {
+      "answer": true
+    },
+    "384": {
+      "answer": true
+    },
+    "385": {
+      "answer": true
+    },
+    "386": {
+      "answer": true
+    },
+    "387": {
+      "answer": false
+    },
+    "388": {
+      "answer": true
+    },
+    "389": {
+      "answer": true
+    },
+    "390": {
+      "answer": true
+    },
+    "391": {
+      "answer": true
+    },
+    "392": {
+      "answer": true
+    },
+    "393": {
+      "answer": true
+    },
+    "394": {
+      "answer": true
+    },
+    "395": {
+      "answer": true
+    },
+    "396": {
+      "answer": false
+    },
+    "397": {
+      "answer": true
+    },
+    "398": {
+      "answer": false
+    },
+    "399": {
+      "answer": true
+    },
+    "400": {
+      "answer": true
+    },
+    "401": {
+      "answer": true
+    },
+    "402": {
+      "answer": false
+    },
+    "403": {
+      "answer": true
+    },
+    "404": {
+      "answer": true
+    },
+    "405": {
+      "answer": false
+    },
+    "406": {
+      "answer": true
+    },
+    "407": {
+      "answer": true
+    },
+    "408": {
+      "answer": true
+    },
+    "409": {
+      "answer": true
+    },
+    "410": {
+      "answer": true
+    },
+    "411": {
+      "answer": true
+    },
+    "412": {
+      "answer": true
+    },
+    "413": {
+      "answer": true
+    },
+    "414": {
+      "answer": true
+    },
+    "415": {
+      "answer": true
+    },
+    "416": {
+      "answer": true
+    },
+    "417": {
+      "answer": false
+    },
+    "418": {
+      "answer": true
+    },
+    "419": {
+      "answer": true
+    },
+    "420": {
+      "answer": true
+    },
+    "421": {
+      "answer": true
+    },
+    "422": {
+      "answer": true
+    },
+    "423": {
+      "answer": true
+    },
+    "424": {
+      "answer": false
+    },
+    "425": {
+      "answer": true
+    },
+    "426": {
+      "answer": true
+    },
+    "427": {
+      "answer": false
+    },
+    "428": {
+      "answer": true
+    },
+    "429": {
+      "answer": true
+    },
+    "430": {
+      "answer": false
+    },
+    "431": {
+      "answer": true
+    },
+    "432": {
+      "answer": true
+    },
+    "433": {
+      "answer": true
+    },
+    "434": {
+      "answer": true
+    },
+    "435": {
+      "answer": true
+    },
+    "436": {
+      "answer": false
+    },
+    "437": {
+      "answer": true
+    },
+    "438": {
+      "answer": true
+    },
+    "439": {
+      "answer": true
+    },
+    "440": {
+      "answer": true
+    },
+    "441": {
+      "answer": true
+    },
+    "442": {
+      "answer": true
+    },
+    "443": {
+      "answer": true
+    },
+    "444": {
+      "answer": true
+    },
+    "445": {
+      "answer": true
+    },
+    "446": {
+      "answer": false
+    },
+    "447": {
+      "answer": true
+    },
+    "448": {
+      "answer": true
+    },
+    "449": {
+      "answer": false
+    },
+    "450": {
+      "answer": true
+    },
+    "451": {
+      "answer": true
+    },
+    "452": {
+      "answer": false
+    },
+    "453": {
+      "answer": true
+    },
+    "454": {
+      "answer": true
+    },
+    "455": {
+      "answer": true
+    },
+    "456": {
+      "answer": false
+    },
+    "457": {
+      "answer": true
+    },
+    "458": {
+      "answer": true
+    },
+    "459": {
+      "answer": true
+    },
+    "460": {
+      "answer": true
+    },
+    "461": {
+      "answer": true
+    },
+    "462": {
+      "answer": true
+    },
+    "463": {
+      "answer": true
+    },
+    "464": {
+      "answer": true
+    },
+    "465": {
+      "answer": true
+    },
+    "466": {
+      "answer": true
+    },
+    "467": {
+      "answer": true
+    },
+    "468": {
+      "answer": true
+    },
+    "469": {
+      "answer": true
+    },
+    "470": {
+      "answer": true
+    },
+    "471": {
+      "answer": true
+    },
+    "472": {
+      "answer": true
+    },
+    "473": {
+      "answer": true
+    },
+    "474": {
+      "answer": true
+    },
+    "475": {
+      "answer": true
+    },
+    "476": {
+      "answer": true
+    },
+    "477": {
+      "answer": true
+    },
+    "478": {
+      "answer": true
+    },
+    "479": {
+      "answer": true
+    },
+    "480": {
+      "answer": true
+    },
+    "481": {
+      "answer": true
+    },
+    "482": {
+      "answer": false
+    },
+    "483": {
+      "answer": true
+    },
+    "484": {
+      "answer": true
+    },
+    "485": {
+      "answer": true
+    },
+    "486": {
+      "answer": true
+    },
+    "487": {
+      "answer": true
+    },
+    "488": {
+      "answer": true
+    },
+    "489": {
+      "answer": true
+    },
+    "490": {
+      "answer": true
+    },
+    "491": {
+      "answer": true
+    },
+    "492": {
+      "answer": true
+    },
+    "493": {
+      "answer": true
+    },
+    "494": {
+      "answer": true
+    },
+    "495": {
+      "answer": true
+    },
+    "496": {
+      "answer": false
+    },
+    "497": {
+      "answer": true
+    },
+    "498": {
+      "answer": true
+    },
+    "499": {
+      "answer": true
+    },
+    "500": {
+      "answer": true
+    },
+    "501": {
+      "answer": true
+    },
+    "502": {
+      "answer": true
+    },
+    "503": {
+      "answer": true
+    },
+    "504": {
+      "answer": true
+    },
+    "505": {
+      "answer": true
+    },
+    "506": {
+      "answer": true
+    },
+    "507": {
+      "answer": true
+    },
+    "508": {
+      "answer": false
+    },
+    "509": {
+      "answer": true
+    },
+    "510": {
+      "answer": true
+    },
+    "511": {
+      "answer": true
+    },
+    "512": {
+      "answer": true
+    },
+    "513": {
+      "answer": true
+    },
+    "514": {
+      "answer": true
+    },
+    "515": {
+      "answer": true
+    },
+    "516": {
+      "answer": true
+    },
+    "517": {
+      "answer": true
+    },
+    "518": {
+      "answer": true
+    },
+    "519": {
+      "answer": true
+    },
+    "520": {
+      "answer": true
+    },
+    "521": {
+      "answer": true
+    },
+    "522": {
+      "answer": true
+    },
+    "523": {
+      "answer": true
+    },
+    "524": {
+      "answer": true
+    },
+    "525": {
+      "answer": true
+    },
+    "526": {
+      "answer": true
+    },
+    "527": {
+      "answer": true
+    },
+    "528": {
+      "answer": true
+    },
+    "529": {
+      "answer": true
+    },
+    "530": {
+      "answer": true
+    },
+    "531": {
+      "answer": true
+    },
+    "532": {
+      "answer": true
+    },
+    "533": {
+      "answer": true
+    },
+    "534": {
+      "answer": true
+    },
+    "535": {
+      "answer": true
+    },
+    "536": {
+      "answer": true
+    },
+    "537": {
+      "answer": true
+    },
+    "538": {
+      "answer": true
+    },
+    "539": {
+      "answer": true
+    },
+    "540": {
+      "answer": true
+    },
+    "541": {
+      "answer": true
+    },
+    "542": {
+      "answer": true
+    },
+    "543": {
+      "answer": true
+    },
+    "544": {
+      "answer": true
+    },
+    "545": {
+      "answer": true
+    },
+    "546": {
+      "answer": true
+    },
+    "547": {
+      "answer": false
+    },
+    "548": {
+      "answer": true
+    },
+    "549": {
+      "answer": false
+    },
+    "550": {
+      "answer": true
+    },
+    "551": {
+      "answer": true
+    },
+    "552": {
+      "answer": true
+    },
+    "553": {
+      "answer": true
+    },
+    "554": {
+      "answer": true
+    },
+    "555": {
+      "answer": true
+    },
+    "556": {
+      "answer": true
+    },
+    "557": {
+      "answer": true
+    },
+    "558": {
+      "answer": true
+    },
+    "559": {
+      "answer": true
+    },
+    "560": {
+      "answer": true
+    },
+    "561": {
+      "answer": true
+    },
+    "562": {
+      "answer": true
+    },
+    "563": {
+      "answer": true
+    },
+    "564": {
+      "answer": true
+    },
+    "565": {
+      "answer": true
+    },
+    "566": {
+      "answer": true
+    },
+    "567": {
+      "answer": true
+    },
+    "568": {
+      "answer": true
+    },
+    "569": {
+      "answer": true
+    },
+    "570": {
+      "answer": true
+    },
+    "571": {
+      "answer": true
+    },
+    "572": {
+      "answer": true
+    },
+    "573": {
+      "answer": true
+    },
+    "574": {
+      "answer": true
+    },
+    "575": {
+      "answer": true
+    },
+    "576": {
+      "answer": true
+    },
+    "577": {
+      "answer": true
+    },
+    "578": {
+      "answer": true
+    },
+    "579": {
+      "answer": true
+    },
+    "580": {
+      "answer": true
+    },
+    "581": {
+      "answer": true
+    },
+    "582": {
+      "answer": true
+    },
+    "583": {
+      "answer": true
+    },
+    "584": {
+      "answer": false
+    },
+    "585": {
+      "answer": true
+    },
+    "586": {
+      "answer": true
+    },
+    "587": {
+      "answer": true
+    },
+    "588": {
+      "answer": true
+    },
+    "589": {
+      "answer": true
+    },
+    "590": {
+      "answer": true
+    },
+    "591": {
+      "answer": true
+    },
+    "592": {
+      "answer": true
+    },
+    "593": {
+      "answer": false
+    },
+    "594": {
+      "answer": true
+    },
+    "595": {
+      "answer": true
+    },
+    "596": {
+      "answer": true
+    },
+    "597": {
+      "answer": true
+    },
+    "598": {
+      "answer": true
+    },
+    "599": {
+      "answer": true
+    },
+    "600": {
+      "answer": false
+    },
+    "601": {
+      "answer": false
+    },
+    "602": {
+      "answer": true
+    },
+    "603": {
+      "answer": true
+    },
+    "604": {
+      "answer": true
+    },
+    "605": {
+      "answer": true
+    },
+    "606": {
+      "answer": true
+    },
+    "607": {
+      "answer": true
+    },
+    "608": {
+      "answer": true
+    },
+    "609": {
+      "answer": true
+    },
+    "610": {
+      "answer": true
+    },
+    "611": {
+      "answer": false
+    },
+    "612": {
+      "answer": true
+    },
+    "613": {
+      "answer": true
+    },
+    "614": {
+      "answer": true
+    },
+    "615": {
+      "answer": true
+    },
+    "616": {
+      "answer": true
+    },
+    "617": {
+      "answer": false
+    },
+    "618": {
+      "answer": true
+    },
+    "619": {
+      "answer": true
+    },
+    "620": {
+      "answer": true
+    },
+    "621": {
+      "answer": true
+    },
+    "622": {
+      "answer": true
+    },
+    "623": {
+      "answer": true
+    },
+    "624": {
+      "answer": true
+    },
+    "625": {
+      "answer": true
+    },
+    "626": {
+      "answer": true
+    },
+    "627": {
+      "answer": true
+    },
+    "628": {
+      "answer": true
+    },
+    "629": {
+      "answer": true
+    },
+    "630": {
+      "answer": true
+    },
+    "631": {
+      "answer": true
+    },
+    "632": {
+      "answer": true
+    },
+    "633": {
+      "answer": true
+    },
+    "634": {
+      "answer": true
+    },
+    "635": {
+      "answer": true
+    },
+    "636": {
+      "answer": true
+    },
+    "637": {
+      "answer": true
+    },
+    "638": {
+      "answer": true
+    },
+    "639": {
+      "answer": true
+    },
+    "640": {
+      "answer": true
+    },
+    "641": {
+      "answer": true
+    },
+    "642": {
+      "answer": true
+    },
+    "643": {
+      "answer": true
+    },
+    "644": {
+      "answer": true
+    },
+    "645": {
+      "answer": true
+    },
+    "646": {
+      "answer": true
+    },
+    "647": {
+      "answer": true
+    },
+    "648": {
+      "answer": true
+    },
+    "649": {
+      "answer": true
+    },
+    "650": {
+      "answer": true
+    },
+    "651": {
+      "answer": false
+    },
+    "652": {
+      "answer": true
+    },
+    "653": {
+      "answer": true
+    },
+    "654": {
+      "answer": true
+    },
+    "655": {
+      "answer": true
+    },
+    "656": {
+      "answer": true
+    },
+    "657": {
+      "answer": true
+    },
+    "658": {
+      "answer": true
+    },
+    "659": {
+      "answer": true
+    },
+    "660": {
+      "answer": true
+    },
+    "661": {
+      "answer": true
+    },
+    "662": {
+      "answer": true
+    },
+    "663": {
+      "answer": true
+    },
+    "664": {
+      "answer": false
+    },
+    "665": {
+      "answer": true
+    },
+    "666": {
+      "answer": true
+    },
+    "667": {
+      "answer": false
+    },
+    "668": {
+      "answer": true
+    },
+    "669": {
+      "answer": true
+    },
+    "670": {
+      "answer": true
+    },
+    "671": {
+      "answer": true
+    },
+    "672": {
+      "answer": true
+    },
+    "673": {
+      "answer": true
+    },
+    "674": {
+      "answer": true
+    },
+    "675": {
+      "answer": true
+    },
+    "676": {
+      "answer": true
+    },
+    "677": {
+      "answer": true
+    },
+    "678": {
+      "answer": false
+    },
+    "679": {
+      "answer": true
+    },
+    "680": {
+      "answer": true
+    },
+    "681": {
+      "answer": true
+    },
+    "682": {
+      "answer": true
+    },
+    "683": {
+      "answer": true
+    },
+    "684": {
+      "answer": true
+    },
+    "685": {
+      "answer": true
+    },
+    "686": {
+      "answer": true
+    },
+    "687": {
+      "answer": false
+    },
+    "688": {
+      "answer": true
+    },
+    "689": {
+      "answer": true
+    },
+    "690": {
+      "answer": false
+    },
+    "691": {
+      "answer": true
+    },
+    "692": {
+      "answer": true
+    },
+    "693": {
+      "answer": true
+    },
+    "694": {
+      "answer": true
+    },
+    "695": {
+      "answer": true
+    },
+    "696": {
+      "answer": true
+    },
+    "697": {
+      "answer": true
+    },
+    "698": {
+      "answer": true
+    },
+    "699": {
+      "answer": true
+    },
+    "700": {
+      "answer": false
+    },
+    "701": {
+      "answer": true
+    },
+    "702": {
+      "answer": true
+    },
+    "703": {
+      "answer": true
+    },
+    "704": {
+      "answer": true
+    },
+    "705": {
+      "answer": true
+    },
+    "706": {
+      "answer": true
+    },
+    "707": {
+      "answer": true
+    },
+    "708": {
+      "answer": true
+    },
+    "709": {
+      "answer": true
+    },
+    "710": {
+      "answer": true
+    },
+    "711": {
+      "answer": true
+    },
+    "712": {
+      "answer": true
+    },
+    "713": {
+      "answer": true
+    },
+    "714": {
+      "answer": true
+    },
+    "715": {
+      "answer": true
+    },
+    "716": {
+      "answer": true
+    },
+    "717": {
+      "answer": false
+    },
+    "718": {
+      "answer": true
+    },
+    "719": {
+      "answer": true
+    },
+    "720": {
+      "answer": true
+    },
+    "721": {
+      "answer": true
+    },
+    "722": {
+      "answer": true
+    },
+    "723": {
+      "answer": true
+    },
+    "724": {
+      "answer": true
+    },
+    "725": {
+      "answer": true
+    },
+    "726": {
+      "answer": true
+    },
+    "727": {
+      "answer": true
+    },
+    "728": {
+      "answer": false
+    },
+    "729": {
+      "answer": false
+    },
+    "730": {
+      "answer": false
+    },
+    "731": {
+      "answer": false
+    },
+    "732": {
+      "answer": false
+    },
+    "733": {
+      "answer": false
+    },
+    "734": {
+      "answer": true
+    },
+    "735": {
+      "answer": true
+    },
+    "736": {
+      "answer": true
+    },
+    "737": {
+      "answer": false
+    },
+    "738": {
+      "answer": true
+    },
+    "739": {
+      "answer": true
+    },
+    "740": {
+      "answer": true
+    },
+    "741": {
+      "answer": true
+    },
+    "742": {
+      "answer": true
+    },
+    "743": {
+      "answer": true
+    },
+    "744": {
+      "answer": true
+    },
+    "745": {
+      "answer": true
+    },
+    "746": {
+      "answer": true
+    },
+    "747": {
+      "answer": true
+    },
+    "748": {
+      "answer": false
+    },
+    "749": {
+      "answer": true
+    },
+    "750": {
+      "answer": true
+    },
+    "751": {
+      "answer": false
+    },
+    "752": {
+      "answer": false
+    },
+    "753": {
+      "answer": true
+    },
+    "754": {
+      "answer": true
+    },
+    "755": {
+      "answer": true
+    },
+    "756": {
+      "answer": false
+    },
+    "757": {
+      "answer": true
+    },
+    "758": {
+      "answer": true
+    },
+    "759": {
+      "answer": true
+    },
+    "760": {
+      "answer": true
+    },
+    "761": {
+      "answer": true
+    },
+    "762": {
+      "answer": true
+    },
+    "763": {
+      "answer": true
+    },
+    "764": {
+      "answer": true
+    },
+    "765": {
+      "answer": true
+    },
+    "766": {
+      "answer": true
+    },
+    "767": {
+      "answer": true
+    },
+    "768": {
+      "answer": true
+    },
+    "769": {
+      "answer": false
+    },
+    "770": {
+      "answer": true
+    },
+    "771": {
+      "answer": true
+    },
+    "772": {
+      "answer": true
+    },
+    "773": {
+      "answer": true
+    },
+    "774": {
+      "answer": false
+    },
+    "775": {
+      "answer": true
+    },
+    "776": {
+      "answer": true
+    },
+    "777": {
+      "answer": false
+    },
+    "778": {
+      "answer": true
+    },
+    "779": {
+      "answer": true
+    },
+    "780": {
+      "answer": true
+    },
+    "781": {
+      "answer": false
+    },
+    "782": {
+      "answer": true
+    },
+    "783": {
+      "answer": false
+    },
+    "784": {
+      "answer": true
+    },
+    "785": {
+      "answer": true
+    },
+    "786": {
+      "answer": true
+    },
+    "787": {
+      "answer": true
+    },
+    "788": {
+      "answer": true
+    },
+    "789": {
+      "answer": true
+    },
+    "790": {
+      "answer": false
+    },
+    "791": {
+      "answer": true
+    },
+    "792": {
+      "answer": true
+    },
+    "793": {
+      "answer": true
+    },
+    "794": {
+      "answer": true
+    },
+    "795": {
+      "answer": true
+    },
+    "796": {
+      "answer": true
+    },
+    "797": {
+      "answer": true
+    },
+    "798": {
+      "answer": true
+    },
+    "799": {
+      "answer": true
+    },
+    "800": {
+      "answer": true
+    },
+    "801": {
+      "answer": true
+    },
+    "802": {
+      "answer": false
+    },
+    "803": {
+      "answer": true
+    },
+    "804": {
+      "answer": true
+    },
+    "805": {
+      "answer": true
+    },
+    "806": {
+      "answer": false
+    },
+    "807": {
+      "answer": true
+    },
+    "808": {
+      "answer": true
+    },
+    "809": {
+      "answer": true
+    },
+    "810": {
+      "answer": true
+    },
+    "811": {
+      "answer": true
+    },
+    "812": {
+      "answer": false
+    },
+    "813": {
+      "answer": false
+    },
+    "814": {
+      "answer": true
+    },
+    "815": {
+      "answer": true
+    },
+    "816": {
+      "answer": true
+    },
+    "817": {
+      "answer": true
+    },
+    "818": {
+      "answer": true
+    },
+    "819": {
+      "answer": true
+    },
+    "820": {
+      "answer": false
+    },
+    "821": {
+      "answer": true
+    },
+    "822": {
+      "answer": true
+    },
+    "823": {
+      "answer": true
+    },
+    "824": {
+      "answer": true
+    },
+    "825": {
+      "answer": true
+    },
+    "826": {
+      "answer": true
+    },
+    "827": {
+      "answer": true
+    },
+    "828": {
+      "answer": true
+    },
+    "829": {
+      "answer": true
+    },
+    "830": {
+      "answer": true
+    },
+    "831": {
+      "answer": false
+    },
+    "832": {
+      "answer": true
+    },
+    "833": {
+      "answer": true
+    },
+    "834": {
+      "answer": true
+    },
+    "835": {
+      "answer": false
+    },
+    "836": {
+      "answer": true
+    },
+    "837": {
+      "answer": true
+    },
+    "838": {
+      "answer": false
+    },
+    "839": {
+      "answer": false
+    },
+    "840": {
+      "answer": true
+    },
+    "841": {
+      "answer": true
+    },
+    "842": {
+      "answer": true
+    },
+    "843": {
+      "answer": true
+    },
+    "844": {
+      "answer": true
+    },
+    "845": {
+      "answer": true
+    },
+    "846": {
+      "answer": true
+    },
+    "847": {
+      "answer": true
+    },
+    "848": {
+      "answer": true
+    },
+    "849": {
+      "answer": true
+    },
+    "850": {
+      "answer": true
+    },
+    "851": {
+      "answer": true
+    },
+    "852": {
+      "answer": true
+    },
+    "853": {
+      "answer": true
+    },
+    "854": {
+      "answer": true
+    },
+    "855": {
+      "answer": true
+    },
+    "856": {
+      "answer": true
+    },
+    "857": {
+      "answer": true
+    },
+    "858": {
+      "answer": false
+    },
+    "859": {
+      "answer": true
+    },
+    "860": {
+      "answer": false
+    },
+    "861": {
+      "answer": true
+    },
+    "862": {
+      "answer": false
+    },
+    "863": {
+      "answer": true
+    },
+    "864": {
+      "answer": true
+    },
+    "865": {
+      "answer": true
+    },
+    "866": {
+      "answer": true
+    },
+    "867": {
+      "answer": true
+    },
+    "868": {
+      "answer": true
+    },
+    "869": {
+      "answer": true
+    },
+    "870": {
+      "answer": true
+    },
+    "871": {
+      "answer": true
+    },
+    "872": {
+      "answer": true
+    },
+    "873": {
+      "answer": true
+    },
+    "874": {
+      "answer": true
+    },
+    "875": {
+      "answer": false
+    },
+    "876": {
+      "answer": true
+    },
+    "877": {
+      "answer": true
+    },
+    "878": {
+      "answer": true
+    },
+    "879": {
+      "answer": true
+    },
+    "880": {
+      "answer": true
+    },
+    "881": {
+      "answer": true
+    },
+    "882": {
+      "answer": true
+    },
+    "883": {
+      "answer": false
+    },
+    "884": {
+      "answer": true
+    },
+    "885": {
+      "answer": true
+    },
+    "886": {
+      "answer": true
+    },
+    "887": {
+      "answer": true
+    },
+    "888": {
+      "answer": true
+    },
+    "889": {
+      "answer": false
+    },
+    "890": {
+      "answer": true
+    },
+    "891": {
+      "answer": true
+    },
+    "892": {
+      "answer": true
+    },
+    "893": {
+      "answer": false
+    },
+    "894": {
+      "answer": true
+    },
+    "895": {
+      "answer": true
+    },
+    "896": {
+      "answer": true
+    },
+    "897": {
+      "answer": true
+    },
+    "898": {
+      "answer": true
+    },
+    "899": {
+      "answer": true
+    },
+    "900": {
+      "answer": true
+    },
+    "901": {
+      "answer": true
+    },
+    "902": {
+      "answer": false
+    },
+    "903": {
+      "answer": true
+    },
+    "904": {
+      "answer": true
+    },
+    "905": {
+      "answer": true
+    },
+    "906": {
+      "answer": true
+    },
+    "907": {
+      "answer": true
+    },
+    "908": {
+      "answer": true
+    },
+    "909": {
+      "answer": true
+    },
+    "910": {
+      "answer": true
+    },
+    "911": {
+      "answer": true
+    },
+    "912": {
+      "answer": true
+    },
+    "913": {
+      "answer": true
+    },
+    "914": {
+      "answer": true
+    },
+    "915": {
+      "answer": false
+    },
+    "916": {
+      "answer": true
+    },
+    "917": {
+      "answer": false
+    },
+    "918": {
+      "answer": true
+    },
+    "919": {
+      "answer": true
+    },
+    "920": {
+      "answer": true
+    },
+    "921": {
+      "answer": true
+    },
+    "922": {
+      "answer": false
+    },
+    "923": {
+      "answer": true
+    },
+    "924": {
+      "answer": true
+    },
+    "925": {
+      "answer": true
+    },
+    "926": {
+      "answer": true
+    },
+    "927": {
+      "answer": true
+    },
+    "928": {
+      "answer": true
+    },
+    "929": {
+      "answer": true
+    },
+    "930": {
+      "answer": true
+    },
+    "931": {
+      "answer": true
+    },
+    "932": {
+      "answer": true
+    },
+    "933": {
+      "answer": true
+    },
+    "934": {
+      "answer": true
+    },
+    "935": {
+      "answer": true
+    },
+    "936": {
+      "answer": false
+    },
+    "937": {
+      "answer": true
+    },
+    "938": {
+      "answer": true
+    },
+    "939": {
+      "answer": true
+    },
+    "940": {
+      "answer": false
+    },
+    "941": {
+      "answer": true
+    },
+    "942": {
+      "answer": true
+    },
+    "943": {
+      "answer": false
+    },
+    "944": {
+      "answer": false
+    },
+    "945": {
+      "answer": false
+    },
+    "946": {
+      "answer": true
+    },
+    "947": {
+      "answer": true
+    },
+    "948": {
+      "answer": true
+    },
+    "949": {
+      "answer": true
+    },
+    "950": {
+      "answer": true
+    },
+    "951": {
+      "answer": true
+    },
+    "952": {
+      "answer": true
+    },
+    "953": {
+      "answer": true
+    },
+    "954": {
+      "answer": true
+    },
+    "955": {
+      "answer": false
+    },
+    "956": {
+      "answer": true
+    },
+    "957": {
+      "answer": true
+    },
+    "958": {
+      "answer": true
+    },
+    "959": {
+      "answer": true
+    },
+    "960": {
+      "answer": true
+    },
+    "961": {
+      "answer": false
+    },
+    "962": {
+      "answer": true
+    },
+    "963": {
+      "answer": true
+    },
+    "964": {
+      "answer": true
+    },
+    "965": {
+      "answer": true
+    },
+    "966": {
+      "answer": true
+    },
+    "967": {
+      "answer": true
+    },
+    "968": {
+      "answer": true
+    },
+    "969": {
+      "answer": true
+    },
+    "970": {
+      "answer": true
+    },
+    "971": {
+      "answer": true
+    },
+    "972": {
+      "answer": true
+    },
+    "973": {
+      "answer": true
+    },
+    "974": {
+      "answer": true
+    },
+    "975": {
+      "answer": true
+    },
+    "976": {
+      "answer": false
+    },
+    "977": {
+      "answer": false
+    },
+    "978": {
+      "answer": true
+    },
+    "979": {
+      "answer": true
+    },
+    "980": {
+      "answer": true
+    },
+    "981": {
+      "answer": true
+    },
+    "982": {
+      "answer": false
+    },
+    "983": {
+      "answer": true
+    },
+    "984": {
+      "answer": true
+    },
+    "985": {
+      "answer": true
+    },
+    "986": {
+      "answer": false
+    },
+    "987": {
+      "answer": true
+    },
+    "988": {
+      "answer": true
+    },
+    "989": {
+      "answer": true
+    },
+    "990": {
+      "answer": true
+    },
+    "991": {
+      "answer": true
+    },
+    "992": {
+      "answer": true
+    },
+    "993": {
+      "answer": false
+    },
+    "994": {
+      "answer": true
+    },
+    "995": {
+      "answer": true
+    },
+    "996": {
+      "answer": true
+    },
+    "997": {
+      "answer": true
+    },
+    "998": {
+      "answer": true
+    },
+    "999": {
+      "answer": true
+    }
+  }
+}
